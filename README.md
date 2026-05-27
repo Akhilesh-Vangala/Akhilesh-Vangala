@@ -15,7 +15,7 @@
 - **[relayops](https://github.com/Akhilesh-Vangala/relayops):** Evidence-grounded enterprise workflow agent with checkpointed LangGraph, browser observations, independent simulation, exact-version review, and receipted sandbox actions.
 - **[what-can-a-plot-reveal](https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal):** Detection versus diagnosis in ML diagnostic plots for human and AI readers.
 - **[querypilot](https://github.com/Akhilesh-Vangala/querypilot):** Agentic analytics with executable metrics, reconciled period comparisons, descriptive Shapley accounting, and inspectable SQL evidence. FastAPI, LangGraph, PostgreSQL, and React.
-- **[payflow](https://github.com/Akhilesh-Vangala/payflow):** Exactly-once payment charges with a double-entry ledger. Go backend, React dashboard ([live](https://payflow-mu-amber.vercel.app/)).
+- **[payflow](https://github.com/Akhilesh-Vangala/payflow):** Exactly-once payment charges with a double-entry ledger. Go backend, React dashboard.
 - **[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow):** Accounts payable platform with ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
 
 ---
