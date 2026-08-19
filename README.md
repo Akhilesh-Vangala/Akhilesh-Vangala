@@ -160,46 +160,6 @@
 
 ---
 
-## Experience
-
-**AI/ML Engineer (Capstone)**  
-[NYU Center for Data Science](https://cds.nyu.edu/) · Sep 2026 - Present · New York, NY  
-Building **ActiveSysID**, a closed-loop active learning pipeline for dynamical systems using latent neural dynamics models and ensemble uncertainty to select the most informative experiments.  
-<sub>Python · PyTorch · Active Learning · Uncertainty Quantification</sub>
-
-**AI/ML Engineer - Graduate Research Assistant**  
-[NYU Rory Meyers College of Nursing](https://nursing.nyu.edu/) · May 2026 - Present · Hybrid  
-NIH Alzheimer's Genomic Sequencing Project: developing scalable IBD-based association testing; extending to binary and survival outcomes with large-scale simulation and HPC validation.  
-<sub>Python · R · HPC / SLURM</sub>
-
-**AI Web Developer**  
-[New York University, Courant Institute of Mathematics, Computing, and Data Science](https://cims.nyu.edu/dynamic/) · Jul 2026 - Sep 2026 · Hybrid  
-Shipped UI, research layouts, and interactive components for the NYU Courant AI website; used LLM-assisted workflows to improve accessibility of AI research content.  
-<sub>HTML / CSS · LLMs · Research Web UX</sub>
-
-**AI/ML Engineer Intern**  
-[SAP Americas](https://www.sap.com/) · Jun 2026 - Aug 2026 · Dallas, TX  
-<sub>via SDVS Technologies</sub>  
-Built Python/SQL ETL and validation for SAP S/4HANA across 15 domains, 149 schemas, and **2.1M+** records. Applied LLM-assisted mapping, documentation, and test generation with the SAP Data Engineering team.  
-<sub>Python · SQL · ETL · LLMs</sub>
-
-**AI/ML Engineer - Graduate Research Assistant**  
-[Hochwagen Lab, NYU](https://as.nyu.edu/faculty/andreas-hochwagen.html) · Feb 2026 - May 2026 · On-site  
-Built NIH All of Us genomic pipelines across **200K+** samples and **20+** disease cohorts in Python, SQL, and BigQuery; feature engineering, predictive modeling, and automated QC.  
-<sub>Python · SQL · BigQuery</sub>
-
-**AI/ML Engineer**  
-[Virinchi Hospitals](https://virinchihospitals.com/) · Aug 2024 - Aug 2025 · Hyderabad  
-Built GPT-4/GPT-4o tool-calling and RAG agents for hospital operations, billing, and reporting (Azure OpenAI, LangChain, FastAPI, read-only HIS SQL), with golden-set evals and mandatory human review on clinical outputs.  
-<sub>Agentic AI · LangChain · RAG · FastAPI · OpenAI / Azure OpenAI · Tool Calling · HITL Review</sub>
-
-**AI Software Engineer Intern**  
-Dascase Technologies · May 2024 - Jul 2024 · Remote  
-Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-assisted retrieval; **99.5%** request success and p95 latency cut from **850ms to 320ms**.  
-<sub>Python · FastAPI · AWS Lambda · REST APIs · SQL</sub>
-
----
-
 ## Education
 
 **M.S. Data Science**, New York University, Courant Institute of Mathematics, Computing, and Data Science · Sept 2025 - May 2027  
