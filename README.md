@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/sai-akhilesh-vangala) [![GitHub](https://img.shields.io/badge/github-Akhilesh--Vangala-lightgrey)](https://github.com/Akhilesh-Vangala) [![NYU Email](https://img.shields.io/badge/email-sv3129%40nyu.edu-success)](mailto:sv3129@nyu.edu) [![Gmail](https://img.shields.io/badge/email-sai.akhilesh.vangala%40gmail.com-red)](mailto:sai.akhilesh.vangala@gmail.com)
 
-I'm Sai Akhilesh Vangala, an M.S. Data Science student at New York University's [Center for Data Science](https://cds.nyu.edu/), with a B.Tech in Computer Science (AI & ML). I work as a Data Science Research Assistant at NYU Rory Meyers College of Nursing on statistical genetics pipelines for the NIH Alzheimer's Sequencing Project, and previously built large-scale biomedical ETL on NIH All of Us at the Hochwagen Lab.
+I'm Sai Akhilesh Vangala, an M.S. Data Science student at [@NYU-Courant-Institute](https://github.com/NYU-Courant-Institute) / NYU [Center for Data Science](https://cds.nyu.edu/), with a B.Tech in Computer Science (AI & ML). I work as a Data Science Research Assistant at NYU Rory Meyers College of Nursing on statistical genetics pipelines for the NIH Alzheimer's Sequencing Project, and previously built large-scale biomedical ETL on NIH All of Us at the Hochwagen Lab.
 
 My interests span machine learning systems, operations research / mathematical optimization, agentic LLM tooling, computer vision, and reinforcement learning. I enjoy shipping end-to-end systems—from MILP planners and forecast registries to MCP agents and perception pipelines—that are measurable, reproducible, and useful to real decision-makers. Some projects that I've worked on include:
 
