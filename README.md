@@ -64,21 +64,6 @@ Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assiste
 
 ---
 
-### Certifications
-
-Verified Coursera credentials (official titles):
-
-| Certificate | Issuer | Verify |
-| --- | --- | --- |
-| [Managing Machine Learning Projects](https://www.coursera.org/verify/4PWP65PVZW44) | Duke University | [Show](https://www.coursera.org/verify/4PWP65PVZW44) |
-| [Introduction to Machine Learning](https://www.coursera.org/verify/CJTNRS75BA2V) | Duke University | [Show](https://www.coursera.org/verify/CJTNRS75BA2V) |
-| [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/verify/3TF6TQGNFN7A) | Imperial College London | [Show](https://www.coursera.org/verify/3TF6TQGNFN7A) |
-| [Data Structures](https://www.coursera.org/verify/XDL6JJ8FNYN5) | UC San Diego | [Show](https://www.coursera.org/verify/XDL6JJ8FNYN5) |
-| [Basic Statistics](https://www.coursera.org/verify/CD7TSQTX4NX5) | University of Amsterdam | [Show](https://www.coursera.org/verify/CD7TSQTX4NX5) |
-| [Predictive Modeling, Model Fitting, and Regression Analysis](https://www.coursera.org/verify/ENKUGNUHPW49) | UC Irvine | [Show](https://www.coursera.org/verify/ENKUGNUHPW49) |
-
----
-
 ### Skills
 
 **Languages**  
@@ -105,6 +90,16 @@ Verified Coursera credentials (official titles):
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-1B4F72?style=flat-square)
+
+**Certifications**  
+| Certificate | Issuer |
+| --- | --- |
+| [Managing Machine Learning Projects](https://www.coursera.org/verify/4PWP65PVZW44) | Duke University |
+| [Introduction to Machine Learning](https://www.coursera.org/verify/CJTNRS75BA2V) | Duke University |
+| [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/verify/3TF6TQGNFN7A) | Imperial College London |
+| [Data Structures](https://www.coursera.org/verify/XDL6JJ8FNYN5) | UC San Diego |
+| [Basic Statistics](https://www.coursera.org/verify/CD7TSQTX4NX5) | University of Amsterdam |
+| [Predictive Modeling, Model Fitting, and Regression Analysis](https://www.coursera.org/verify/ENKUGNUHPW49) | UC Irvine |
 
 ---
 
