@@ -19,10 +19,10 @@ I work across ML systems, statistical genetics, agentic LLM tooling, and product
 | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP (Gurobi/HiGHS); annealing within **0.65%** of optimum | [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · NL→SQL copilot with DROP/DML blocks; **12/12** golden evals |
 | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by **dollar impact** | [**content-migration-mcp**](https://github.com/Akhilesh-Vangala/content-migration-mcp) · MCP pipeline: Reddit/YouTube/News → script, voice, video |
 
-| Forecasting & ML Systems | Computer Vision & RL |
+| Forecasting & ML Systems | Computer Vision & Systems |
 | --- | --- |
 | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** | [**generative-lane-restoration**](https://github.com/Akhilesh-Vangala/generative-lane-restoration) · CLRerNet + **Qwen LoRA** on CuLane |
-| [**Metrik-AI**](https://github.com/Akhilesh-Vangala/Metrik-AI) · Building-energy forecast & anomaly detection (NYU DS-GA 1019) | [**drl-carla**](https://github.com/Akhilesh-Vangala/drl-carla) · Self-driving RL in CARLA (**DQN / DDPG**) |
+| [**Metrik-AI**](https://github.com/Akhilesh-Vangala/Metrik-AI) · Building-energy forecast & anomaly detection (NYU DS-GA 1019) | [**edgekws**](https://github.com/Akhilesh-Vangala/edgekws) · Edge keyword spotting: Python train/quantize, **C++** inference, **90.9%** / **12/12** golden |
 | [**multi-gpu-ddp-training**](https://github.com/Akhilesh-Vangala/multi-gpu-ddp-training) · Real **2×T4** DDP: ResNet-18 **87.6%**, ~**2100 img/s** | [**WorldCoder**](https://github.com/Akhilesh-Vangala/WorldCoder) · Physically consistent **4D** scene editing with multimodal FMs |
 
 ---
