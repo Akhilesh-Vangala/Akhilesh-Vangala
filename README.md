@@ -1,7 +1,7 @@
 ## Hi, I'm Sai Akhilesh Vangala
 
 **MS Data Science @ NYU Courant Institute School of Mathematics, Computing, and Data Science** · Software Engineering & Machine Learning  
-`Python` · `Java` · `SQL` · `PyTorch` · `AWS`
+`Python` · `SQL` · `Java` · `R` · `PyTorch` · `AWS`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-akhilesh-vangala)
 [![NYU](https://img.shields.io/badge/Email-sv3129%40nyu.edu-57068c)](mailto:sv3129@nyu.edu)
@@ -68,30 +68,28 @@ Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assiste
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**ML & AI**  
+**ML & Stats**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-0B3D91?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-5C2D91?style=flat-square)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-2E7D32?style=flat-square)
 
-**Data & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+**Data Engineering**  
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-FF6F00?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-455A64?style=flat-square)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Systems & Cloud**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-**Optimization & Research**  
-![Gurobi](https://img.shields.io/badge/Gurobi-EE2E2F?style=flat-square)
-![HiGHS](https://img.shields.io/badge/HiGHS-1B4F72?style=flat-square)
-![Statistical Genetics](https://img.shields.io/badge/Statistical%20Genetics-2E7D32?style=flat-square)
-![HPC](https://img.shields.io/badge/HPC-455A64?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-1B4F72?style=flat-square)
 
 ---
 
