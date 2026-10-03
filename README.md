@@ -64,6 +64,21 @@ Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assiste
 
 ---
 
+### Certifications
+
+Verified Coursera credentials (official titles):
+
+| Certificate | Issuer | Verify |
+| --- | --- | --- |
+| [Managing Machine Learning Projects](https://www.coursera.org/verify/4PWP65PVZW44) | Duke University | [Show](https://www.coursera.org/verify/4PWP65PVZW44) |
+| [Introduction to Machine Learning](https://www.coursera.org/verify/CJTNRS75BA2V) | Duke University | [Show](https://www.coursera.org/verify/CJTNRS75BA2V) |
+| [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/verify/3TF6TQGNFN7A) | Imperial College London | [Show](https://www.coursera.org/verify/3TF6TQGNFN7A) |
+| [Data Structures](https://www.coursera.org/verify/XDL6JJ8FNYN5) | UC San Diego | [Show](https://www.coursera.org/verify/XDL6JJ8FNYN5) |
+| [Basic Statistics](https://www.coursera.org/verify/CD7TSQTX4NX5) | University of Amsterdam | [Show](https://www.coursera.org/verify/CD7TSQTX4NX5) |
+| [Predictive Modeling, Model Fitting, and Regression Analysis](https://www.coursera.org/verify/ENKUGNUHPW49) | UC Irvine | [Show](https://www.coursera.org/verify/ENKUGNUHPW49) |
+
+---
+
 ### Skills
 
 **Languages**  
