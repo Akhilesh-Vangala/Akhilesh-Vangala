@@ -29,19 +29,70 @@ I work across ML systems, statistical genetics, agentic LLM tooling, and product
 
 ### Experience
 
-| Role | Org | Focus |
-| --- | --- | --- |
-| **Machine Learning Engineer (Capstone)** · Sep 2026 – Present | NYU Center for Data Science | **ActiveSysID**: closed-loop active learning for dynamical systems using latent neural dynamics + ensemble uncertainty |
-| **Data Scientist – Graduate RA** · May 2026 – Present | NYU Rory Meyers College of Nursing | NIH Alzheimer's Genomic Sequencing Project: scalable IBD-based association testing; binary/survival outcomes; HPC validation |
-| **Software Engineer** · Jul 2026 – Sep 2026 | NYU Courant | Shipped UI, research layouts, and interactive components for the [NYU Courant AI website](https://cims.nyu.edu/dynamic/) |
-| **Software Engineer Intern** · Jun 2026 – Aug 2026 | SAP Americas (via SDVS Technologies) | Python/SQL ETL pipelines for SAP S/4HANA with the SAP Data Engineering team (Dallas) |
-| **Data Scientist – Graduate RA** · Feb 2026 – May 2026 | Hochwagen Lab, NYU | NIH All of Us: genomic pipelines across **200K+** samples and **20+** disease cohorts; feature engineering, modeling, automated QC |
-| **Software Engineer Intern** · May 2024 – Jul 2024 | Dascase Technologies | Production **Python/FastAPI** + **AWS Lambda** APIs with SQL + LLM-assisted retrieval; **99.5%** success; p95 **850ms → 320ms** |
+<table>
+<tr>
+<td width="28%"><b>Machine Learning Engineer (Capstone)</b><br/><sub>Sep 2026 – Present</sub></td>
+<td><b>NYU Center for Data Science</b><br/>
+<strong>ActiveSysID</strong> — closed-loop active learning for dynamical systems using latent neural dynamics + ensemble uncertainty</td>
+</tr>
+<tr>
+<td><b>Data Scientist – Graduate RA</b><br/><sub>May 2026 – Present</sub></td>
+<td><b>NYU Rory Meyers College of Nursing</b><br/>
+NIH Alzheimer's Genomic Sequencing Project: scalable IBD-based association testing; binary/survival outcomes; HPC validation</td>
+</tr>
+<tr>
+<td><b>Software Engineer</b><br/><sub>Jul 2026 – Sep 2026</sub></td>
+<td><b>NYU Courant</b><br/>
+Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a></td>
+</tr>
+<tr>
+<td><b>Software Engineer Intern</b><br/><sub>Jun 2026 – Aug 2026</sub></td>
+<td><b>SAP Americas</b> <sub>(via SDVS Technologies)</sub><br/>
+Python/SQL ETL pipelines for SAP S/4HANA with the SAP Data Engineering team (Dallas)</td>
+</tr>
+<tr>
+<td><b>Data Scientist – Graduate RA</b><br/><sub>Feb 2026 – May 2026</sub></td>
+<td><b>Hochwagen Lab, NYU</b><br/>
+NIH All of Us: genomic pipelines across <b>200K+</b> samples and <b>20+</b> disease cohorts; feature engineering, modeling, automated QC</td>
+</tr>
+<tr>
+<td><b>Software Engineer Intern</b><br/><sub>May 2024 – Jul 2024</sub></td>
+<td><b>Dascase Technologies</b><br/>
+Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assisted retrieval; <b>99.5%</b> success; p95 <b>850ms → 320ms</b></td>
+</tr>
+</table>
 
 ---
 
-### Stack
+### Skills
 
-`Python` · `Java` · `SQL` · `PyTorch` · `scikit-learn` · `FastAPI` · `AWS` (Lambda) · `PostgreSQL` · `BigQuery` · `SAP S/4HANA` · `Gurobi` / `HiGHS` · `Docker` · `HTML` · `LLMs` · HPC / statistical genetics
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**ML & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-0B3D91?style=flat-square)
+
+**Data & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Optimization & Research**  
+![Gurobi](https://img.shields.io/badge/Gurobi-EE2E2F?style=flat-square)
+![HiGHS](https://img.shields.io/badge/HiGHS-1B4F72?style=flat-square)
+![Statistical Genetics](https://img.shields.io/badge/Statistical%20Genetics-2E7D32?style=flat-square)
+![HPC](https://img.shields.io/badge/HPC-455A64?style=flat-square)
+
+---
 
 📫 **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala)
