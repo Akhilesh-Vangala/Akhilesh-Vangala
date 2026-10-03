@@ -4,7 +4,7 @@
 
 I'm Sai Akhilesh Vangala, an M.S. Data Science student at [@NYU-Courant-Institute](https://github.com/NYU-Courant-Institute) / NYU [Center for Data Science](https://cds.nyu.edu/), with a B.Tech in Computer Science (AI & ML). I work as a Data Science Research Assistant at NYU Rory Meyers College of Nursing on statistical genetics pipelines for the NIH Alzheimer's Sequencing Project, and previously built large-scale biomedical ETL on NIH All of Us at the Hochwagen Lab.
 
-My interests span machine learning systems, operations research / mathematical optimization, agentic LLM tooling, computer vision, and reinforcement learning. I enjoy shipping end-to-end systems—from MILP planners and forecast registries to MCP agents and perception pipelines—that are measurable, reproducible, and useful to real decision-makers. Some projects that I've worked on include:
+My interests span machine learning systems, operations research / mathematical optimization, agentic LLM tooling, computer vision, and reinforcement learning. I enjoy shipping end-to-end systems, from MILP planners and forecast registries to MCP agents and perception pipelines, that are measurable, reproducible, and useful to real decision-makers. Some projects that I've worked on include:
 
 - [LensPlan](https://github.com/Akhilesh-Vangala/lensplan), a multi-plant lens production and distribution optimizer using Gurobi/HiGHS MILP with a simulated-annealing meta-heuristic within 0.65% of optimum.
 - [QueryPilot](https://github.com/Akhilesh-Vangala/querypilot), an agentic natural-language-to-SQL analytics copilot with hard query guardrails (blocks DROP/DML) and a 12/12 golden-question eval harness.
