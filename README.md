@@ -1,6 +1,6 @@
 ## Hi, I'm Sai Akhilesh Vangala
 
-**MS Data Science @ NYU Courant Institute School of Mathematics, Computing, and Data Science** · Software Engineering & Machine Learning  
+**MS Data Science @ NYU Courant Institute of Mathematics, Computing, and Data Science** · Software Engineering & Machine Learning  
 `Python` · `SQL` · `Java` · `R` · `PyTorch` · `AWS`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-akhilesh-vangala)
@@ -42,7 +42,7 @@ NIH Alzheimer's Genomic Sequencing Project: scalable IBD-based association testi
 </tr>
 <tr>
 <td><b>Software Engineer</b><br/><sub>Jul 2026 – Sep 2026</sub></td>
-<td><b>NYU Courant Institute School of Mathematics, Computing, and Data Science</b><br/>
+<td><b>NYU Courant Institute of Mathematics, Computing, and Data Science</b><br/>
 Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a></td>
 </tr>
 <tr>
