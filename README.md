@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-[![LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/sai-akhilesh-vangala) [![GitHub](https://img.shields.io/badge/github-Akhilesh--Vangala-lightgrey)](https://github.com/Akhilesh-Vangala) [![Email](https://img.shields.io/badge/email-sv3129%40nyu.edu-success)](mailto:sv3129@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/linked-in-informational)](https://www.linkedin.com/in/sai-akhilesh-vangala) [![GitHub](https://img.shields.io/badge/github-Akhilesh--Vangala-lightgrey)](https://github.com/Akhilesh-Vangala) [![NYU Email](https://img.shields.io/badge/email-sv3129%40nyu.edu-success)](mailto:sv3129@nyu.edu) [![Gmail](https://img.shields.io/badge/email-sai.akhilesh.vangala%40gmail.com-red)](mailto:sai.akhilesh.vangala@gmail.com)
 
 I'm Sai Akhilesh Vangala, an M.S. Data Science student at New York University's [Center for Data Science](https://cds.nyu.edu/), with a B.Tech in Computer Science (AI & ML). I work as a Data Science Research Assistant at NYU Rory Meyers College of Nursing on statistical genetics pipelines for the NIH Alzheimer's Sequencing Project, and previously built large-scale biomedical ETL on NIH All of Us at the Hochwagen Lab.
 
