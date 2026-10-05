@@ -31,7 +31,7 @@ I work across ML systems, statistical genetics, agentic LLM tooling, and product
 
 <table>
 <tr>
-<td width="28%"><b>Machine Learning Engineer (Capstone)</b><br/><sub>Sep 2026 – Present</sub></td>
+<td width="28%"><b>Data Scientist (Capstone)</b><br/><sub>Sep 2026 – Present</sub></td>
 <td><b>NYU Center for Data Science</b><br/>
 <strong>ActiveSysID</strong> — closed-loop active learning for dynamical systems using latent neural dynamics + ensemble uncertainty</td>
 </tr>
