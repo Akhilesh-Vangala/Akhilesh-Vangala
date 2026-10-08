@@ -9,18 +9,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sai.akhilesh.vangala%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sai.akhilesh.vangala@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?logo=github)](https://github.com/Akhilesh-Vangala)
 
-I build production AI systems: agentic LLM products, NL-to-SQL copilots, RAG APIs, and closed-loop ML research. Targeting **AI Engineer**, **AI Software Engineer**, and **Forward Deployed Engineer** roles. Currently AI/ML Engineer (Capstone) at NYU CDS and AI/ML Engineer – Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
+I build and evaluate agentic GenAI systems: Claude Code agents with MCP tools and Agent Skills, hosted vs open-weight routing, NL-to-SQL copilots, and production ML. Targeting **AI Engineer**, **AI Software Engineer**, and **Forward Deployed Engineer** roles. Currently AI/ML Engineer (Capstone) at NYU CDS and AI/ML Engineer – Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
 
 ---
 
 ### Featured work
 
-| Agentic AI & FDE | ML Systems & Vision |
+| Agentic GenAI | ML Systems |
 | --- | --- |
-| [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · NL→SQL analytics copilot with DROP/DML blocks; **12/12** golden evals | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
-| [**content-migration-mcp**](https://github.com/Akhilesh-Vangala/content-migration-mcp) · MCP pipeline: Reddit/YouTube/News → script, voice, video; **75–80%** token cut | [**generative-lane-restoration**](https://github.com/Akhilesh-Vangala/generative-lane-restoration) · CLRerNet + **Qwen LoRA** on CuLane |
-| [**Metrik-AI**](https://github.com/Akhilesh-Vangala/Metrik-AI) · Building-energy forecast & anomaly detection (NYU DS-GA 1019) | [**edgekws**](https://github.com/Akhilesh-Vangala/edgekws) · Edge keyword spotting: Python train/quantize, **C++** inference, **90.9%** / **12/12** golden |
-| [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum | [**multi-gpu-ddp-training**](https://github.com/Akhilesh-Vangala/multi-gpu-ddp-training) · Real **2×T4** DDP: ResNet-18 **87.6%**, ~**2100 img/s** |
+| [**cmg-deep-claude-agent**](https://github.com/Akhilesh-Vangala/cmg-deep-claude-agent) · CMG evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
+| [**agentbench-cmg**](https://github.com/Akhilesh-Vangala/agentbench-cmg) · **240** controlled runs; tools **23%→80%**, skills **+15** pts | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
+| [**bioroute-model-benchmark**](https://github.com/Akhilesh-Vangala/bioroute-model-benchmark) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by dollar impact |
+| [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · Guardrailed NL→SQL agent; **12/12** golden execution evals | [**content-migration-mcp**](https://github.com/Akhilesh-Vangala/content-migration-mcp) · MCP pipeline to script/voice/video; **75–80%** token cut |
 
 ---
 
