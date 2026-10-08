@@ -17,9 +17,9 @@ I build and evaluate agentic GenAI systems: Claude Code agents with MCP tools an
 
 | Agentic GenAI | ML Systems |
 | --- | --- |
-| [**cmg-deep-claude-agent**](https://github.com/Akhilesh-Vangala/cmg-deep-claude-agent) · CMG evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
-| [**agentbench-cmg**](https://github.com/Akhilesh-Vangala/agentbench-cmg) · **240** controlled runs; tools **23%→80%**, skills **+15** pts | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
-| [**bioroute-model-benchmark**](https://github.com/Akhilesh-Vangala/bioroute-model-benchmark) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by dollar impact |
+| [**evidence-mcp-agent**](https://github.com/Akhilesh-Vangala/evidence-mcp-agent) · Healthcare evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
+| [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) · **240** controlled runs; tools **23%→80%**, skills **+15** pts | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
+| [**agent-router-bench**](https://github.com/Akhilesh-Vangala/agent-router-bench) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by dollar impact |
 | [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · Guardrailed NL→SQL agent; **12/12** golden execution evals | [**content-migration-mcp**](https://github.com/Akhilesh-Vangala/content-migration-mcp) · MCP pipeline to script/voice/video; **75–80%** token cut |
 
 ---
