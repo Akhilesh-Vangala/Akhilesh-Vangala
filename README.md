@@ -53,6 +53,11 @@ Shipped UI, research layouts, and interactive components for the <a href="https:
 NIH All of Us: genomic pipelines across <b>200K+</b> samples and <b>20+</b> disease cohorts; feature engineering, modeling, automated QC</td>
 </tr>
 <tr>
+<td><b>AI/ML Engineer</b><br/><sub>Aug 2024 – Aug 2025</sub></td>
+<td><b>Virinchi Hospitals</b><br/>
+Built GPT-4/GPT-4o tool-calling and RAG agents for hospital ops and billing, with golden-set evals, human-in-the-loop clinical drafts, and ops dashboards</td>
+</tr>
+<tr>
 <td><b>AI Software Engineer Intern</b><br/><sub>May 2024 – Jul 2024</sub></td>
 <td><b>Dascase Technologies</b><br/>
 Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assisted retrieval; <b>99.5%</b> success; p95 <b>850ms → 320ms</b></td>
