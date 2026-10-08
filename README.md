@@ -1,7 +1,7 @@
 ## Hi, I'm Sai Akhilesh Vangala
 
 **MS Data Science @ NYU Courant Institute of Mathematics, Computing, and Data Science** · AI Engineer · AI Software Engineer · Forward Deployed Engineer  
-`Python` · `SQL` · `PyTorch` · `LLMs` · `RAG` · `MCP` · `FastAPI` · `AWS`
+`Python` · `SQL` · `PyTorch` · `LLMs` · `RAG` · `Agents` · `FastAPI` · `AWS`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-akhilesh-vangala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-181717?logo=github)](https://akhilesh-vangala.github.io/)
@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sai.akhilesh.vangala%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sai.akhilesh.vangala@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?logo=github)](https://github.com/Akhilesh-Vangala)
 
-I build and evaluate agentic GenAI systems: Claude Code agents with MCP tools and Agent Skills, hosted vs open-weight routing, NL-to-SQL copilots, and production ML. Targeting **AI Engineer**, **AI Software Engineer**, and **Forward Deployed Engineer** roles. Currently AI/ML Engineer (Capstone) at NYU CDS and AI/ML Engineer – Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
+I build applied AI systems end to end: tool-using agents, LLM applications, retrieval pipelines, evaluation harnesses, and production ML services. Open to **AI Engineer**, **Applied Scientist**, **AI Software Engineer**, and **Forward Deployed Engineer** roles. Currently AI/ML Engineer (Capstone) at NYU CDS and AI/ML Engineer – Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
 
 ---
 
