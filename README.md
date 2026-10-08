@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sai.akhilesh.vangala%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sai.akhilesh.vangala@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?logo=github)](https://github.com/Akhilesh-Vangala)
 
-I build applied AI systems end to end: tool-using agents, LLM applications, retrieval pipelines, evaluation harnesses, and production ML services. Open to **AI Engineer**, **Applied Scientist**, **AI Software Engineer**, and **Forward Deployed Engineer** roles. Currently AI/ML Engineer (Capstone) at NYU CDS and AI/ML Engineer – Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
+Applied AI engineer focused on agentic systems, LLM applications, and production ML. I design tool-using agents, retrieval workflows, and evaluation pipelines that turn models into reliable products. M.S. Data Science at NYU Courant. Currently AI/ML Engineer (Capstone) at NYU CDS and Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
 
 ---
 
