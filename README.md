@@ -18,9 +18,9 @@ Applied AI engineer focused on agentic systems, LLM applications, and production
 | Agentic GenAI | ML Systems |
 | --- | --- |
 | [**VerifyOps**](https://github.com/Akhilesh-Vangala/verifyops) · Data-incident agent: LangGraph checkpoints + independent SQL verification; **38/38** fixed corpus | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
-| [**evidence-mcp-agent**](https://github.com/Akhilesh-Vangala/evidence-mcp-agent) · Healthcare evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
+| [**healthcare-evidence-agent**](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent) · Healthcare evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
 | [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) · **240** controlled runs; tools **23%→80%**, skills **+15** pts | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by dollar impact |
-| [**agent-router-bench**](https://github.com/Akhilesh-Vangala/agent-router-bench) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · Guardrailed NL→SQL agent; **12/12** golden execution evals |
+| [**bioroute**](https://github.com/Akhilesh-Vangala/bioroute) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · Guardrailed NL→SQL agent; **12/12** golden execution evals |
 
 ---
 
