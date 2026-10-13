@@ -148,8 +148,8 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 
 ## Education
 
-**M.S. Data Science**, New York University (Courant / CDS) · Sept 2025 – May 2027  
-**B.Tech CSE (AI & ML)**, GITAM University · 2021 – 2025
+**M.S. Data Science**, New York University (Courant / CDS) · Sept 2025 - May 2027  
+**B.Tech CSE (AI & ML)**, GITAM University · 2021 - 2025
 
 ## Contact
 
