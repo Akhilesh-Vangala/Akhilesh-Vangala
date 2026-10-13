@@ -7,6 +7,12 @@
 
 <br/>
 
+<a href="https://cims.nyu.edu/"><img src="./assets/nyu-courant.svg" height="40" alt="NYU Courant" /></a>
+&nbsp;
+<a href="https://cds.nyu.edu/"><img src="./assets/nyu-cds.svg" height="40" alt="NYU Center for Data Science" /></a>
+
+<br/><br/>
+
 **AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
 MS Data Science @ NYU Courant · Expected 2027
 

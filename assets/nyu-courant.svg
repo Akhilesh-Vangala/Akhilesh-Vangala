@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" role="img" aria-label="NYU Courant">
+  <rect width="280" height="72" rx="12" fill="#57068C"/>
+  <!-- torch mark -->
+  <g fill="#FFFFFF" transform="translate(18,14)">
+    <path d="M14 2c2.2 4.2 1.4 7.2-.2 9.2 2.6.4 4.6 2.4 4.6 5.3 0 3.2-2.4 5.5-6.2 5.5S6 19.7 6 16.5c0-2.8 1.8-4.7 4.2-5.3C8.4 9 7.8 6.2 10 2c1.2 1.8 2.4 2.6 4 0z"/>
+    <rect x="11.2" y="22" width="5.6" height="14" rx="1.2"/>
+    <path d="M7 38h14l-1.4 6H8.4L7 38z"/>
+  </g>
+  <line x1="52" y1="18" x2="52" y2="54" stroke="#FFFFFF" stroke-opacity=".45" stroke-width="1.5"/>
+  <text x="66" y="34" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF" letter-spacing="1.5">NYU</text>
+  <text x="66" y="54" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" letter-spacing="3">COURANT</text>
+</svg>
