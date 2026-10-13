@@ -10,7 +10,10 @@
 **AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
 MS Data Science @ NYU Courant
 
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [Email](mailto:sv3129@nyu.edu) · [All repos](https://github.com/Akhilesh-Vangala?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-2EE6A6?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117)](https://akhilesh-vangala.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-nyu)
+[![Email](https://img.shields.io/badge/Email-sv3129%40nyu.edu-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sv3129@nyu.edu)
+[![Repos](https://img.shields.io/badge/All%20Repos-Akhilesh--Vangala-5CE1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Akhilesh-Vangala?tab=repositories)
 
 </div>
 
