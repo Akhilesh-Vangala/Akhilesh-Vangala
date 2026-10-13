@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Akhilesh Vangala : AI Engineer; agents, evaluation, and backend ML systems" />
+  <img src="./assets/hero-dark.svg" width="100%" alt="Akhilesh Vangala, AI Engineer: agents, evaluation, and backend ML systems" />
 </picture>
 
 **AI Engineer · Agentic Systems · Applied GenAI · Backend / ML Engineering**
