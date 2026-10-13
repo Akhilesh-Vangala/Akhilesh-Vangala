@@ -3,7 +3,7 @@
 # Sai Akhilesh Vangala
 
 **AI Engineer** · Applied GenAI · Agentic Systems  
-MS Data Science @ NYU Courant · GPA 3.8/4.0
+MS Data Science @ NYU Courant
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=flat-square&logo=github)](https://akhilesh-vangala.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-nyu)
@@ -11,34 +11,48 @@ MS Data Science @ NYU Courant · GPA 3.8/4.0
 
 </div>
 
-Applied AI engineer building **tool-using agents**, **retrieval systems**, and **evaluation pipelines**. Focus: LangGraph agents, RAG with grounding, golden-set evals, and production FastAPI/AWS services.
+Applied AI engineer building **tool-using agents**, **retrieval systems**, and **evaluation pipelines**. Focus: LangGraph agents, grounded RAG, golden-set evals, and production FastAPI/AWS services.
 
 ---
 
-## Featured work
+## Flagship systems
 
-| System | Problem | Approach | Evidence |
-| --- | --- | --- | --- |
-| [**VerifyOps**](https://github.com/Akhilesh-Vangala/verifyops) | Data-incident investigation | Checkpointed LangGraph + independent SQL/dbt verification + HITL | **38/38** fixed corpus |
-| [**RelayOps**](https://github.com/Akhilesh-Vangala/relayops) | Enterprise exception workflows | Multimodal observe → simulate → exact-version review → sandbox execute | Model cannot self-approve |
+### [VerifyOps](https://github.com/Akhilesh-Vangala/verifyops) · data-incident agent
+Checkpointed LangGraph investigator for metric discrepancies. Proposes evidence-backed SQL repairs, runs **independent** SQL/dbt verification, then exact-version HITL review.
 
 ```text
-VerifyOps   detect → investigate → SQL → verify → HITL
-RelayOps    observe → hypothesize → simulate → review → execute
+detect → investigate → SQL → verify → HITL
 ```
+
+`LangGraph` · `DuckDB` · `dbt` · `FastAPI` · `OpenTelemetry`
+
+### [RelayOps](https://github.com/Akhilesh-Vangala/relayops) · enterprise workflow agent
+Evidence-grounded exception agent: Playwright observations, cited hypotheses, private-copy simulation, exact-version review, receipted sandbox actions. The model **cannot** approve or execute its own proposal.
+
+```text
+observe → hypothesize → simulate → review → execute
+```
+
+`LangGraph` · `Playwright` · `AsyncAnthropic` · `FastAPI` · `Pydantic`
 
 ---
 
-## Selected results
+## Agentic / GenAI work
 
-| Metric | Context |
+| Repo | What it is |
 | --- | --- |
-| **38/38** | VerifyOps end-to-end on fixed synthetic corpus |
-| **95% vs 20%** | Healthcare evidence agent vs fixed-pipeline baseline (30 golden tasks) |
-| **12/12** | QueryPilot NL→SQL golden execution-accuracy evals |
-| **240** | Controlled agent-config ablation runs (tools 23%→80%, skills +15 pts) |
-| **0.99 vs 1.00** | Open-weight router F1 (Qwen) vs Claude Haiku |
-| **850ms → 320ms** | Production API p95 latency (Dascase) |
+| [**healthcare-evidence-agent**](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent) | Healthcare evidence agent on Claude Code + MCP + Agent Skills; grounded citations over live APIs |
+| [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) | Ablation bench isolating tools, skills, and model cost on the same golden set |
+| [**bioroute**](https://github.com/Akhilesh-Vangala/bioroute) | Hosted vs open-weight router for agent routing / compliance (F1, ECE, latency, cost) |
+| [**querypilot**](https://github.com/Akhilesh-Vangala/querypilot) | Guardrailed NL→SQL agent with DROP/DML refusal and execution-accuracy evals |
+
+## ML systems
+
+| Repo | What it is |
+| --- | --- |
+| [**forecastops**](https://github.com/Akhilesh-Vangala/forecastops) | Point-in-time SKU forecasts, Postgres model registry, PSI drift monitoring |
+| [**lensplan**](https://github.com/Akhilesh-Vangala/lensplan) | Multi-plant lens MILP (Gurobi/HiGHS) with LP-costed simulated annealing |
+| [**plantpulse**](https://github.com/Akhilesh-Vangala/plantpulse) | S&OP exception desk ranked by dollar impact, not raw forecast error |
 
 ---
 
@@ -56,37 +70,37 @@ RelayOps    observe → hypothesize → simulate → review → execute
 
 ---
 
-## Other projects
-
-| Repo | One-line impact |
-| --- | --- |
-| [healthcare-evidence-agent](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent) | Claude Code + MCP + Agent Skills; **95%** pass vs **20%** baseline |
-| [agent-config-bench](https://github.com/Akhilesh-Vangala/agent-config-bench) | **240** runs isolating tools, skills, and model cost |
-| [bioroute](https://github.com/Akhilesh-Vangala/bioroute) | Hosted vs open-weight agent routing; calibration + cost |
-| [querypilot](https://github.com/Akhilesh-Vangala/querypilot) | Guardrailed NL→SQL; DROP/DML refusal; **12/12** evals |
-| [forecastops](https://github.com/Akhilesh-Vangala/forecastops) | Point-in-time forecasts, registry, PSI drift |
-| [lensplan](https://github.com/Akhilesh-Vangala/lensplan) | Multi-plant MILP; annealing within **0.65%** of MIP |
-
----
-
 ## Experience
 
-| Role | Org | Impact |
+| Role | Org | Focus |
 | --- | --- | --- |
 | AI/ML Engineer (Capstone) · *Present* | NYU CDS | ActiveSysID — active learning for dynamical systems |
 | AI/ML Engineer – GRA · *Present* | NYU Rory Meyers | NIH Alzheimer's GSP — IBD association testing, HPC |
-| AI/ML Engineer Intern · *2026* | SAP Americas | LLM-assisted ETL on S/4HANA · **2.1M+** records |
+| AI/ML Engineer Intern · *2026* | SAP Americas | LLM-assisted ETL on S/4HANA · 2.1M+ records |
 | AI Web Developer · *2026* | NYU Courant | [Courant AI site](https://cims.nyu.edu/dynamic/) |
-| AI/ML Engineer – GRA · *2026* | Hochwagen Lab | NIH All of Us · **200K+** samples · **20+** cohorts |
+| AI/ML Engineer – GRA · *2026* | Hochwagen Lab | NIH All of Us · 200K+ samples · 20+ cohorts |
 | AI/ML Engineer · *2024–25* | Virinchi Hospitals | GPT-4 tool-calling + RAG; golden evals; HITL |
-| AI Software Engineer Intern · *2024* | Dascase | FastAPI + Lambda · **99.5%** · p95 **850→320ms** |
+| AI Software Engineer Intern · *2024* | Dascase | FastAPI + Lambda · 99.5% · p95 850→320ms |
 
 ---
 
 ## Education
 
-- **M.S. Data Science** — NYU Center for Data Science · GPA **3.8/4.0** · Sept 2025 – May 2027  
-- **B.Tech CSE (AI & ML)** — GITAM University · GPA **3.9/4.0** · Sept 2021 – May 2025  
+- **M.S. Data Science** — NYU Center for Data Science · Sept 2025 – May 2027  
+- **B.Tech CSE (AI & ML)** — GITAM University · Sept 2021 – May 2025  
+
+---
+
+## Selected results
+
+| Metric | Context |
+| --- | --- |
+| **38/38** | VerifyOps end-to-end on fixed synthetic corpus |
+| **95% vs 20%** | Healthcare evidence agent vs fixed-pipeline baseline (30 golden tasks) |
+| **12/12** | QueryPilot NL→SQL golden execution-accuracy evals |
+| **240** | Controlled agent-config ablation runs (tools 23%→80%, skills +15 pts) |
+| **0.99 vs 1.00** | Open-weight router F1 (Qwen) vs Claude Haiku |
+| **850ms → 320ms** | Production API p95 latency (Dascase) |
 
 ---
 
