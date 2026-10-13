@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Akhilesh Vangala, AI Engineer :  building trustworthy agent systems">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Akhilesh Vangala, AI Engineer: building trustworthy agent systems">
 <defs>
  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#65F4C7" stop-opacity=".22"/><stop offset="1" stop-color="#65F4C7" stop-opacity="0"/></linearGradient>
  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#294056" stroke-opacity=".35" stroke-width=".5"/></pattern>
@@ -7,7 +7,7 @@
 <rect x="3" y="3" width="1194" height="354" rx="21" fill="none" stroke="#294056" stroke-width="2"/>
 <rect width="1200" height="360" fill="url(#grid)" opacity=".25" rx="24"/>
 <circle cx="1020" cy="148" r="230" fill="url(#glow)"/>
-<g font-family="Inter, Arial, Helvetica, sans-serif">
+<g font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
  <circle cx="65" cy="60" r="5" fill="#65F4C7"/>
  <text x="82" y="65" font-size="17" font-weight="700" fill="#8EA6BC" letter-spacing="4">AI ENGINEERING / NYU COURANT</text>
  <text x="62" y="156" font-size="66" font-weight="800" fill="#F7FAFF" letter-spacing="-2.5">Akhilesh Vangala</text>
@@ -18,7 +18,7 @@
   <rect x="388" y="251" width="177" height="42" rx="13" fill="#111F2F" stroke="#294056"/><text x="411" y="278" fill="#F7FAFF">BACKEND / ML</text>
  </g>
 </g>
-<g font-family="Inter,Arial,Helvetica,sans-serif" font-size="15">
+<g font-family="IBM Plex Sans,Segoe UI,Arial,sans-serif" font-size="15">
  <rect x="797" y="69" width="329" height="229" rx="16" fill="#111F2F" stroke="#294056" stroke-width="1.5"/>
  <text x="821" y="101" fill="#8EA6BC" letter-spacing="2.2" font-weight="700">SYSTEM RELIABILITY</text>
  <rect x="824" y="125" width="120" height="42" rx="10" stroke="#294056" fill="#0A111D"/>

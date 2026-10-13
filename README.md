@@ -5,104 +5,124 @@
   <img src="./assets/hero-dark.svg" width="100%" alt="Akhilesh Vangala, AI Engineer: agents, evaluation, and backend ML systems" />
 </picture>
 
-**AI Engineer · Agentic Systems · Applied GenAI · Backend / ML Engineering**
+<br/>
 
-[Portfolio](https://akhilesh-vangala.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) &nbsp;·&nbsp; [Email](mailto:sv3129@nyu.edu) &nbsp;·&nbsp; [Repositories](https://github.com/Akhilesh-Vangala?tab=repositories)
+**AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
+MS Data Science @ NYU Courant · Expected 2027
+
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [Email](mailto:sv3129@nyu.edu) · [All repos](https://github.com/Akhilesh-Vangala?tab=repositories)
 
 </div>
 
-I build **evidence-grounded AI systems**: agents that use tools, maintain auditable state, evaluate their outputs, and separate model proposals from verified actions. I'm pursuing an **M.S. in Data Science at NYU Courant (2027)**.
+I build **evidence-grounded agent systems**: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action. Focused on reliable LLM products, not demo-only pipelines.
 
-I work across **LLM applications, model evaluation, Python backends, ML systems, and applied research**. My current focus is building reliable agent workflows beyond polished demos.
+| Signal | Result |
+| --- | --- |
+| Healthcare evidence agent | **95%** pass vs **20%** fixed-pipeline baseline (30 golden tasks) |
+| Agent config ablations | **240** controlled runs isolating tools, skills, and model cost |
+| VerifyOps | Checkpointed LangGraph + **independent** SQL/dbt verify + HITL |
+| RelayOps | Observe → simulate → exact-version review → receipted sandbox actions |
 
 ## Selected systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.svg" width="100%" alt="VerifyOps: investigate, verify and review data incidents" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.svg" width="100%" alt="VerifyOps" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/verifyops">VerifyOps</a></h3>
-  <p>Agentic analytics incident investigation with restricted SQL, independent dbt repair checks, persistent work state and exact-version human review.</p>
+  <p>Data-incident agent: restricted SQL investigation, independent dbt repair checks, persistent work state, exact-version human review.</p>
   <p><code>LangGraph</code> <code>FastAPI</code> <code>DuckDB</code> <code>dbt</code></p>
-  <a href="https://verifyops.vercel.app">Read-only product showcase</a> · <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Engineering case study</a>
+  <p>
+    <a href="https://verifyops.vercel.app">Live showcase</a> ·
+    <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Case study</a>
+  </p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.svg" width="100%" alt="RelayOps: evidence-grounded actions with independent simulation and human approval" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.svg" width="100%" alt="RelayOps" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/relayops">RelayOps</a></h3>
-  <p>A bounded enterprise workflow agent with browser observations, cited hypotheses, private-copy simulation, immutable review, and receipted sandbox actions.</p>
+  <p>Enterprise workflow agent: browser observations, cited hypotheses, private-copy simulation, immutable review, receipted sandbox actions.</p>
   <p><code>LangGraph</code> <code>Playwright</code> <code>FastAPI</code> <code>Pydantic</code></p>
-  <a href="https://relayops-two.vercel.app">Read-only product showcase</a> · <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Engineering case study</a>
+  <p>
+    <a href="https://relayops-two.vercel.app">Live showcase</a> ·
+    <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Case study</a>
+  </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.svg" width="100%" alt="Healthcare Evidence Agent: retrieve public evidence, cite and automatically verify" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.svg" width="100%" alt="Healthcare Evidence Agent" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Healthcare Evidence Agent</a></h3>
-  <p>Claude Code + MCP tools + reusable skills for evidence-grounded questions using openFDA, ClinicalTrials.gov and CMS data. <strong>95% pass rate</strong> in the project's 30-task golden evaluation for the documented configuration.</p>
+  <p>Claude Code + MCP + reusable skills over openFDA, ClinicalTrials.gov, and CMS. Word-level citation checks. <strong>95%</strong> pass on a 30-task golden eval.</p>
   <p><code>MCP</code> <code>Claude Code</code> <code>Agent Skills</code> <code>Evaluation</code></p>
-  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Results and reproducibility</a>
+  <p><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Results &amp; reproducibility</a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.svg" width="100%" alt="Agent Config Bench: ablation of tools skills and models on common golden tasks" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.svg" width="100%" alt="Agent Config Bench" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Agent Config Bench</a></h3>
-  <p>Controlled ablation study of tool access, agent skills and model choice, using identical tasks, an automatic grader, and task-paired bootstrap uncertainty estimates.</p>
+  <p>Ablation of tools, skills, and model choice on identical golden tasks with an automatic grader and paired bootstrap CIs.</p>
   <p><code>Experiment Design</code> <code>Bootstrap CIs</code> <code>LLM Evaluation</code></p>
-  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Read the benchmark</a>
+  <p><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Read the benchmark</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.svg" width="100%" alt="Nexus: grounded retrieval and semantic research matching" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.svg" width="100%" alt="Nexus" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/Nexus">Nexus</a></h3>
-  <p>Research advisor discovery using live retrieval, external research-activity checks, semantic matching and citation-grounded synthesis.</p>
+  <p>Research advisor discovery with live retrieval, activity checks, semantic matching, and citation-grounded synthesis. Claude at Columbia hackathon winner.</p>
   <p><code>TypeScript</code> <code>Retrieval</code> <code>Embeddings</code> <code>LLMs</code></p>
-  <a href="https://github.com/Akhilesh-Vangala/Nexus">Explore the architecture</a>
+  <p><a href="https://github.com/Akhilesh-Vangala/Nexus">Architecture</a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.svg" width="100%" alt="Lane Restoration: detection and generative restoration of dashcam lane markings" /></a>
+  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.svg" width="100%" alt="Generative Lane Restoration" /></a>
   <h3><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Generative Lane Restoration</a></h3>
-  <p>Vision pipeline combining CLRerNet lane detection and LoRA fine-tuned Qwen Image Edit for restoring lane markings in dashcam frames.</p>
+  <p>CLRerNet detection + LoRA-tuned Qwen Image Edit to restore lane markings in dashcam frames.</p>
   <p><code>Computer Vision</code> <code>Fine-tuning</code> <code>PyTorch</code> <code>Qwen</code></p>
-  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">View before/after examples</a>
+  <p><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Before / after</a></p>
 </td>
 </tr>
 </table>
 
-> **Scope note:** VerifyOps and RelayOps are development workbenches with read-only hosted showcases. Their documented demos use synthetic data / fixed or scripted diagnostic choices; live-model generalization and production integrations are not yet established.
+> **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
 
-## What I build with
+## Stack
 
-| Area | Technologies / approaches |
+| Area | Tools |
 | --- | --- |
-| **Agent systems** | LangGraph, MCP, tool calling, retrieval, orchestration, structured outputs, human-in-the-loop controls |
-| **Evaluation & reliability** | Golden datasets, executable graders, source-grounded citations, bootstrap comparisons, guardrails, failure analysis |
-| **ML & research** | PyTorch, scikit-learn, fine-tuning / LoRA, multimodal pipelines, active learning, optimization |
-| **Backend & infrastructure** | Python, TypeScript, FastAPI, SQL, PostgreSQL, Docker, AWS, CI/CD, observability |
+| **Agents** | LangGraph, MCP, tool calling, RAG, structured outputs, HITL |
+| **Evals** | Golden sets, executable graders, grounded citations, bootstrap CIs, guardrails |
+| **ML** | PyTorch, scikit-learn, LoRA / fine-tuning, multimodal, active learning |
+| **Backend** | Python, TypeScript, FastAPI, SQL, Postgres, Docker, AWS, CI/CD |
 
 <details>
-<summary><b>More of the stack: languages, platforms and engineering practices</b></summary>
+<summary><b>Full stack</b></summary>
 
-Python · SQL · TypeScript · Java · C++ · R · Bash · React · Git · Linux · FastAPI · SQLAlchemy · PostgreSQL · BigQuery · Apache Spark · PyTorch · scikit-learn · LangGraph · MCP · RAG · prompt / tool interfaces · Docker · AWS Lambda · GitHub Actions · OpenTelemetry · dbt · DuckDB · model evaluation · uncertainty quantification · API design · HPC / GPU workflows.
+Python · SQL · TypeScript · Java · C++ · R · Bash · React · FastAPI · PostgreSQL · BigQuery · Spark · PyTorch · LangGraph · MCP · Docker · AWS Lambda · GitHub Actions · OpenTelemetry · dbt · DuckDB · HPC / GPU
 
 </details>
 
-## Additional engineering work
+## Experience
 
-**Applied AI & agent tooling:** [QueryPilot](https://github.com/Akhilesh-Vangala/querypilot) (guardrailed NL-to-SQL and execution-accuracy evaluation) · [BioRoute](https://github.com/Akhilesh-Vangala/bioroute) (open-weight vs hosted router and calibration benchmark) · [CurateX MCP](https://github.com/Akhilesh-Vangala/curatex-mcp) (multisource content research and generation workflow).
+| Role | Org | Focus |
+| --- | --- | --- |
+| AI/ML Engineer (Capstone) | **NYU Center for Data Science** | ActiveSysID: active learning for dynamical systems |
+| AI/ML Engineer, GRA | **NYU Rory Meyers** | NIH Alzheimer's genomic sequencing: scalable IBD association |
+| AI/ML Engineer Intern | **SAP Americas** | S/4HANA ETL / validation across 15 domains, 2.1M+ records |
+| AI Web Developer | **NYU Courant** | [Courant AI site](https://cims.nyu.edu/dynamic/) |
+| AI/ML Engineer, GRA | **Hochwagen Lab, NYU** | NIH All of Us pipelines across 200K+ samples |
+| AI/ML Engineer | **Virinchi Hospitals** | GPT-4 tool-calling + RAG agents for hospital ops |
+| AI Software Engineer Intern | **Dascase Technologies** | FastAPI / AWS Lambda; p95 850ms → 320ms |
 
-**ML systems & optimization:** [ForecastOps](https://github.com/Akhilesh-Vangala/forecastops) (point-in-time forecasting and drift) · [LensPlan](https://github.com/Akhilesh-Vangala/lensplan) (MILP and heuristic baseline) · [PlantPulse](https://github.com/Akhilesh-Vangala/plantpulse) (impact-ranked operations exceptions).
+## Also shipping
 
-**Research & coursework:** [WorldCoder](https://github.com/Akhilesh-Vangala/WorldCoder) (4D scene editing research prototype) · [Metrik AI](https://github.com/Akhilesh-Vangala/Metrik-AI) (energy forecasting / anomaly detection) · [Building Energy Prediction](https://github.com/Akhilesh-Vangala/Predicting_Building_Energy_Consumption) (controlled ML comparisons).
+[QueryPilot](https://github.com/Akhilesh-Vangala/querypilot) · [BioRoute](https://github.com/Akhilesh-Vangala/bioroute) · [CurateX MCP](https://github.com/Akhilesh-Vangala/curatex-mcp) · [ForecastOps](https://github.com/Akhilesh-Vangala/forecastops) · [LensPlan](https://github.com/Akhilesh-Vangala/lensplan) · [PlantPulse](https://github.com/Akhilesh-Vangala/plantpulse)
 
-## Research and experience
+## Education
 
-- **NYU Rory Meyers / genomic statistics:** scalable association scans, mixed models, numerical validation and GPU-oriented work.
-- **NYU Center for Data Science / ActiveSysID:** closed-loop experiment design for learning dynamical systems.
-- **SAP America (via SDVS Technologies):** data integration and quality workflows across 15 business domains and 2.1M+ records.
-- **Healthcare AI and backend engineering:** database-grounded LLM interfaces, Python APIs, evaluation and operational guardrails.
+**M.S. Data Science**, New York University (Courant / CDS) · Sept 2025 – May 2027  
+**B.Tech CSE (AI & ML)**, GITAM University · 2021 – 2025
 
 ## Contact
 
-I'm interested in **AI Engineer, Applied AI, ML Engineer and AI-focused software engineering** opportunities.
+Open to **AI Engineer / Applied AI / ML Engineer** roles building agent platforms, RAG systems, and evaluation-heavy products.
 
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [Email](mailto:sv3129@nyu.edu)
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com**
