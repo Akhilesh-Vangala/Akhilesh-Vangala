@@ -1,109 +1,200 @@
-## Hi, I'm Sai Akhilesh Vangala
+<div align="center">
 
-**MS Data Science @ NYU Courant Institute of Mathematics, Computing, and Data Science** · AI Engineer · AI Software Engineer · Forward Deployed Engineer  
-`Python` · `SQL` · `PyTorch` · `LLMs` · `RAG` · `Agents` · `FastAPI` · `AWS`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=3ECFBA&center=true&vCenter=true&width=820&height=60&lines=AI+Engineer;Applied+GenAI;Agentic+Systems;Evals+%C2%B7+RAG+%C2%B7+Production" alt="typing headline" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-akhilesh-vangala)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-181717?logo=github)](https://akhilesh-vangala.github.io/)
-[![NYU](https://img.shields.io/badge/Email-sv3129%40nyu.edu-57068c)](mailto:sv3129@nyu.edu)
-[![Gmail](https://img.shields.io/badge/Gmail-sai.akhilesh.vangala%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sai.akhilesh.vangala@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?logo=github)](https://github.com/Akhilesh-Vangala)
+# Sai Akhilesh Vangala
 
-Applied AI engineer focused on agentic systems, LLM applications, and production ML. I design tool-using agents, retrieval workflows, and evaluation pipelines that turn models into reliable products. M.S. Data Science at NYU Courant. Currently AI/ML Engineer (Capstone) at NYU CDS and Graduate Research Assistant on the NIH Alzheimer's Genomic Sequencing Project.
+**MS Data Science @ NYU Courant** · AI Engineer · Applied GenAI · Agentic
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=for-the-badge&logo=vercel&logoColor=white)](https://akhilesh-vangala.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-nyu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhilesh-Vangala)
+[![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sv3129@nyu.edu)
+
+I build **tool-using agents**, **retrieval workflows**, and **evaluation pipelines** that turn models into reliable products.
+
+</div>
 
 ---
 
-### Featured work
+## Featured systems
 
-| Agentic GenAI | ML Systems |
+> Pinned flagships — evidence-backed agent runtimes, not demos.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [VerifyOps](https://github.com/Akhilesh-Vangala/verifyops)
+**Agentic data-incident investigator**
+
+Checkpointed LangGraph · independent SQL / dbt verification · exact-version HITL review
+
+| Metric | Result |
 | --- | --- |
-| [**VerifyOps**](https://github.com/Akhilesh-Vangala/verifyops) · Data-incident agent: LangGraph checkpoints + independent SQL verification; **38/38** fixed corpus | [**ForecastOps**](https://github.com/Akhilesh-Vangala/forecastops) · SKU forecasts + model registry + **PSI drift** |
-| [**healthcare-evidence-agent**](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent) · Healthcare evidence agent on Claude Code + MCP + Agent Skills; **95%** vs **20%** baseline | [**LensPlan**](https://github.com/Akhilesh-Vangala/lensplan) · Multi-plant lens MILP; annealing within **0.65%** of optimum |
-| [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) · **240** controlled runs; tools **23%→80%**, skills **+15** pts | [**PlantPulse**](https://github.com/Akhilesh-Vangala/plantpulse) · S&OP exception desk ranked by dollar impact |
-| [**bioroute**](https://github.com/Akhilesh-Vangala/bioroute) · Hosted vs open-weight router; Qwen F1 **0.99** vs Haiku **1.00** | [**QueryPilot**](https://github.com/Akhilesh-Vangala/querypilot) · Guardrailed NL→SQL agent; **12/12** golden execution evals |
+| Fixed corpus | **38 / 38** |
+| Stack | LangGraph · DuckDB · FastAPI |
+| Bar | verifier independent of proposer |
+
+```text
+detect → investigate → SQL → verify → HITL
+```
+
+[Repo](https://github.com/Akhilesh-Vangala/verifyops) · topics: `agentic-ai` `langgraph` `sql-verification`
+
+</td>
+<td width="50%" valign="top">
+
+### [RelayOps](https://github.com/Akhilesh-Vangala/relayops)
+**Evidence-grounded workflow agent**
+
+Browser observations · private-copy simulation · exact-version sandbox execution
+
+| Metric | Result |
+| --- | --- |
+| Loop | observe → propose → verify → act |
+| Stack | LangGraph · Playwright · FastAPI |
+| Control | model cannot self-approve |
+
+```text
+observe → hypothesize → simulate → review → execute
+```
+
+[Repo](https://github.com/Akhilesh-Vangala/relayops) · topics: `agentic-ai` `multimodal-ai` `langgraph`
+
+</td>
+  </tr>
+</table>
 
 ---
 
-### Experience
+## Proof points
+
+<div align="center">
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| **38/38** | **95% vs 20%** | **12/12** | **240** |
+| VerifyOps corpus | evidence agent vs baseline | NL→SQL golden evals | controlled agent runs |
+
+</div>
+
+---
+
+## Skills
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-7C3AED?style=for-the-badge)
+![Active Learning](https://img.shields.io/badge/Active%20Learning-5C2D91?style=for-the-badge)
+
+**AI Engineering**  
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-BE123C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0369A1?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/Guardrails-B45309?style=for-the-badge)
+![Evals](https://img.shields.io/badge/Golden%20Evals-065F46?style=for-the-badge)
+![NL2SQL](https://img.shields.io/badge/NL%E2%86%92SQL-0EA5E9?style=for-the-badge)
+
+**Production**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## More builds
+
+| Project | What it proves |
+| --- | --- |
+| [**healthcare-evidence-agent**](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent) | Claude Code + MCP + Agent Skills · **95%** vs **20%** baseline |
+| [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) | **240** runs · tools **23%→80%** · skills **+15** pts |
+| [**bioroute**](https://github.com/Akhilesh-Vangala/bioroute) | Hosted vs open-weight router · Qwen F1 **0.99** vs Haiku **1.00** |
+| [**querypilot**](https://github.com/Akhilesh-Vangala/querypilot) | Guardrailed NL→SQL · **12/12** execution-accuracy evals |
+| [**forecastops**](https://github.com/Akhilesh-Vangala/forecastops) | Point-in-time forecasts · registry · **PSI** drift |
+| [**lensplan**](https://github.com/Akhilesh-Vangala/lensplan) | Multi-plant MILP · annealing within **0.65%** of MIP |
+
+---
+
+## Experience
 
 <table>
 <tr>
-<td width="32%"><b>AI/ML Engineer (Capstone)</b><br/><sub>Sep 2026 – Present</sub></td>
+<td width="34%"><b>AI/ML Engineer (Capstone)</b><br/><sub>Sep 2026 – Present</sub></td>
 <td><b>NYU Center for Data Science</b><br/>
-<strong>ActiveSysID</strong> — closed-loop active learning for dynamical systems using latent neural dynamics + ensemble uncertainty</td>
+<strong>ActiveSysID</strong> — closed-loop active learning for dynamical systems (latent neural dynamics + ensemble uncertainty)</td>
 </tr>
 <tr>
 <td><b>AI/ML Engineer – Graduate RA</b><br/><sub>May 2026 – Present</sub></td>
 <td><b>NYU Rory Meyers College of Nursing</b><br/>
-NIH Alzheimer's Genomic Sequencing Project: scalable IBD-based association testing; binary/survival outcomes; HPC validation</td>
+NIH Alzheimer's Genomic Sequencing Project · scalable IBD association testing · HPC validation</td>
 </tr>
 <tr>
 <td><b>AI/ML Engineer Intern</b><br/><sub>Jun 2026 – Aug 2026</sub></td>
-<td><b>SAP Americas</b> <sub>(via SDVS Technologies)</sub><br/>
-Python/SQL ETL and LLM-assisted workflows for SAP S/4HANA across <b>2.1M+</b> records with the SAP Data Engineering team (Dallas)</td>
+<td><b>SAP Americas</b> <sub>(via SDVS)</sub><br/>
+Python/SQL ETL + LLM-assisted workflows on SAP S/4HANA across <b>2.1M+</b> records (Dallas)</td>
 </tr>
 <tr>
 <td><b>AI Web Developer</b><br/><sub>Jul 2026 – Sep 2026</sub></td>
-<td><b>NYU Courant Institute of Mathematics, Computing, and Data Science</b><br/>
-Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a></td>
+<td><b>NYU Courant</b><br/>
+Shipped UI + interactive components for the <a href="https://cims.nyu.edu/dynamic/">Courant AI website</a></td>
 </tr>
 <tr>
 <td><b>AI/ML Engineer – Graduate RA</b><br/><sub>Feb 2026 – May 2026</sub></td>
 <td><b>Hochwagen Lab, NYU</b><br/>
-NIH All of Us: genomic pipelines across <b>200K+</b> samples and <b>20+</b> disease cohorts; feature engineering, modeling, automated QC</td>
+NIH All of Us · genomic pipelines across <b>200K+</b> samples and <b>20+</b> disease cohorts</td>
 </tr>
 <tr>
 <td><b>AI/ML Engineer</b><br/><sub>Aug 2024 – Aug 2025</sub></td>
 <td><b>Virinchi Hospitals</b><br/>
-Built GPT-4/GPT-4o tool-calling and RAG agents for hospital ops and billing, with golden-set evals, human-in-the-loop clinical drafts, and ops dashboards</td>
+GPT-4 tool-calling + RAG agents for hospital ops/billing · golden-set evals · HITL drafts</td>
 </tr>
 <tr>
 <td><b>AI Software Engineer Intern</b><br/><sub>May 2024 – Jul 2024</sub></td>
 <td><b>Dascase Technologies</b><br/>
-Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assisted retrieval; <b>99.5%</b> success; p95 <b>850ms → 320ms</b></td>
+Production FastAPI + AWS Lambda · <b>99.5%</b> success · p95 <b>850ms → 320ms</b></td>
 </tr>
 </table>
 
 ---
 
-### Skills
+## GitHub pulse
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<div align="center">
 
-**AI & ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
-![LoRA](https://img.shields.io/badge/Fine--tuning%20(LoRA)-7C3AED?style=flat-square)
-![Active Learning](https://img.shields.io/badge/Active%20Learning-5C2D91?style=flat-square)
+<a href="https://github.com/Akhilesh-Vangala">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akhilesh-Vangala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECFBA&icon_color=3ECFBA&text_color=E6EDF3&ring_color=3ECFBA" alt="GitHub stats" />
+</a>
+&nbsp;
+<a href="https://github.com/Akhilesh-Vangala">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-Vangala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECFBA&text_color=E6EDF3" alt="Top languages" />
+</a>
 
-**AI Engineering**  
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-BE123C?style=flat-square)
-![NL-to-SQL](https://img.shields.io/badge/NL--to--SQL-0369A1?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-1E293B?style=flat-square)
-![Guardrails](https://img.shields.io/badge/Guardrails-B45309?style=flat-square)
-![Evals](https://img.shields.io/badge/Golden%20Evals-065F46?style=flat-square)
+<br/>
 
-**Production & FDE**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-Vangala&theme=tokyonight&hide_border=true&background=0D1117&ring=3ECFBA&fire=3ECFBA&currStreakLabel=3ECFBA" alt="GitHub streak" />
 
-**Data & Platform**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-455A64?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-1B4F72?style=flat-square)
+</div>
 
-**Certifications**  
+---
+
+## Certifications
+
 | Certificate | Issuer |
 | --- | --- |
 | [Managing Machine Learning Projects](https://www.coursera.org/verify/4PWP65PVZW44) | Duke University |
@@ -115,4 +206,14 @@ Production <b>Python/FastAPI</b> + <b>AWS Lambda</b> APIs with SQL + LLM-assiste
 
 ---
 
-📫 **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com** · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · [Portfolio](https://akhilesh-vangala.github.io/)
+<div align="center">
+
+### Let's build agents that evaluate cleanly
+
+**sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com**
+
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [GitHub](https://github.com/Akhilesh-Vangala)
+
+<img src="https://komarev.com/ghpvc/?username=Akhilesh-Vangala&style=flat-square&color=3ECFBA" alt="profile views" />
+
+</div>
