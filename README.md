@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png" />
-  <img src="./assets/hero-dark.png" width="100%" alt="Akhilesh Vangala, AI Engineer at NYU Courant and Center for Data Science" />
+  <img src="./assets/hero-dark.png" width="100%" alt="Akhilesh Vangala, AI Engineer" />
 </picture>
 
 <br/>
@@ -28,54 +28,42 @@ I build **evidence-grounded agent systems**: tool-using workflows with auditable
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.svg" width="100%" alt="VerifyOps" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/verifyops">VerifyOps</a></h3>
-  <p>Data-incident agent: restricted SQL investigation, independent dbt repair checks, persistent work state, exact-version human review.</p>
+  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.png" width="100%" alt="VerifyOps" /></a>
+  <p>Restricted SQL investigation, independent dbt repair checks, persistent state, exact-version human review.</p>
   <p><code>LangGraph</code> <code>FastAPI</code> <code>DuckDB</code> <code>dbt</code></p>
-  <p>
-    <a href="https://verifyops.vercel.app">Live showcase</a> ·
-    <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Case study</a>
-  </p>
+  <p><a href="https://verifyops.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.svg" width="100%" alt="RelayOps" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/relayops">RelayOps</a></h3>
-  <p>Enterprise workflow agent: browser observations, cited hypotheses, private-copy simulation, immutable review, receipted sandbox actions.</p>
+  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.png" width="100%" alt="RelayOps" /></a>
+  <p>Browser observations, cited hypotheses, private-copy simulation, immutable review, receipted sandbox actions.</p>
   <p><code>LangGraph</code> <code>Playwright</code> <code>FastAPI</code> <code>Pydantic</code></p>
-  <p>
-    <a href="https://relayops-two.vercel.app">Live showcase</a> ·
-    <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Case study</a>
-  </p>
+  <p><a href="https://relayops-two.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.svg" width="100%" alt="Healthcare Evidence Agent" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Healthcare Evidence Agent</a></h3>
-  <p>Claude Code + MCP + reusable skills over openFDA, ClinicalTrials.gov, and CMS. Word-level citation checks. <strong>95%</strong> pass on a 30-task golden eval.</p>
+  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.png" width="100%" alt="Evidence Agent" /></a>
+  <p>Claude Code + MCP + skills over openFDA, ClinicalTrials.gov, CMS. <strong>95%</strong> pass on a 30-task golden eval.</p>
   <p><code>MCP</code> <code>Claude Code</code> <code>Agent Skills</code> <code>Evaluation</code></p>
   <p><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Results &amp; reproducibility</a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.svg" width="100%" alt="Agent Config Bench" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Agent Config Bench</a></h3>
-  <p>Ablation of tools, skills, and model choice on identical golden tasks with an automatic grader and paired bootstrap CIs.</p>
+  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.png" width="100%" alt="Config Bench" /></a>
+  <p>Ablation of tools, skills, and model choice with an automatic grader and paired bootstrap CIs.</p>
   <p><code>Experiment Design</code> <code>Bootstrap CIs</code> <code>LLM Evaluation</code></p>
   <p><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Read the benchmark</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.svg" width="100%" alt="Nexus" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/Nexus">Nexus</a></h3>
-  <p>Research advisor discovery with live retrieval, activity checks, semantic matching, and citation-grounded synthesis. Claude at Columbia hackathon winner.</p>
+  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.png" width="100%" alt="Nexus" /></a>
+  <p>Research advisor discovery with live retrieval, semantic matching, and citation-grounded synthesis.</p>
   <p><code>TypeScript</code> <code>Retrieval</code> <code>Embeddings</code> <code>LLMs</code></p>
   <p><a href="https://github.com/Akhilesh-Vangala/Nexus">Architecture</a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.svg" width="100%" alt="Generative Lane Restoration" /></a>
-  <h3><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Generative Lane Restoration</a></h3>
-  <p>CLRerNet detection + LoRA-tuned Qwen Image Edit to restore lane markings in dashcam frames.</p>
+  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.png" width="100%" alt="Lane Restore" /></a>
+  <p>CLRerNet detection + LoRA-tuned Qwen Image Edit for dashcam lane restoration.</p>
   <p><code>Computer Vision</code> <code>Fine-tuning</code> <code>PyTorch</code> <code>Qwen</code></p>
   <p><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Before / after</a></p>
 </td>
