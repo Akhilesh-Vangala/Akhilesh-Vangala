@@ -16,62 +16,6 @@ MS Data Science @ NYU Courant
 
 I build **evidence-grounded agent systems**: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action. Focused on reliable LLM products, not demo-only pipelines.
 
-| Signal | Result |
-| --- | --- |
-| Healthcare evidence agent | **95%** pass vs **20%** fixed-pipeline baseline (30 golden tasks) |
-| Agent config ablations | **240** controlled runs isolating tools, skills, and model cost |
-| VerifyOps | Checkpointed LangGraph + **independent** SQL/dbt verify + HITL |
-| RelayOps | Observe → simulate → exact-version review → receipted sandbox actions |
-
-## Selected systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.png" width="100%" alt="VerifyOps" /></a>
-  <p>Restricted SQL investigation, independent dbt repair checks, persistent state, exact-version human review.</p>
-  <p><code>LangGraph</code> <code>FastAPI</code> <code>DuckDB</code> <code>dbt</code></p>
-  <p><a href="https://verifyops.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.png" width="100%" alt="RelayOps" /></a>
-  <p>Browser observations, cited hypotheses, private-copy simulation, immutable review, receipted sandbox actions.</p>
-  <p><code>LangGraph</code> <code>Playwright</code> <code>FastAPI</code> <code>Pydantic</code></p>
-  <p><a href="https://relayops-two.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.png" width="100%" alt="Evidence Agent" /></a>
-  <p>Claude Code + MCP + skills over openFDA, ClinicalTrials.gov, CMS. <strong>95%</strong> pass on a 30-task golden eval.</p>
-  <p><code>MCP</code> <code>Claude Code</code> <code>Agent Skills</code> <code>Evaluation</code></p>
-  <p><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Results &amp; reproducibility</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.png" width="100%" alt="Config Bench" /></a>
-  <p>Ablation of tools, skills, and model choice with an automatic grader and paired bootstrap CIs.</p>
-  <p><code>Experiment Design</code> <code>Bootstrap CIs</code> <code>LLM Evaluation</code></p>
-  <p><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Read the benchmark</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.png" width="100%" alt="Nexus" /></a>
-  <p>Research advisor discovery with live retrieval, semantic matching, and citation-grounded synthesis.</p>
-  <p><code>TypeScript</code> <code>Retrieval</code> <code>Embeddings</code> <code>LLMs</code></p>
-  <p><a href="https://github.com/Akhilesh-Vangala/Nexus">Architecture</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.png" width="100%" alt="Lane Restore" /></a>
-  <p>CLRerNet detection + LoRA-tuned Qwen Image Edit for dashcam lane restoration.</p>
-  <p><code>Computer Vision</code> <code>Fine-tuning</code> <code>PyTorch</code> <code>Qwen</code></p>
-  <p><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Before / after</a></p>
-</td>
-</tr>
-</table>
-
-> **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
-
 ## Skills
 
 <div align="center">
@@ -157,6 +101,55 @@ I build **evidence-grounded agent systems**: tool-using workflows with auditable
 </table>
 
 ---
+
+## Selected systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/verifyops"><img src="./assets/verifyops.png" width="100%" alt="VerifyOps" /></a>
+  <p>Restricted SQL investigation, independent dbt repair checks, persistent state, exact-version human review.</p>
+  <p><code>LangGraph</code> <code>FastAPI</code> <code>DuckDB</code> <code>dbt</code></p>
+  <p><a href="https://verifyops.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/relayops"><img src="./assets/relayops.png" width="100%" alt="RelayOps" /></a>
+  <p>Browser observations, cited hypotheses, private-copy simulation, immutable review, receipted sandbox actions.</p>
+  <p><code>LangGraph</code> <code>Playwright</code> <code>FastAPI</code> <code>Pydantic</code></p>
+  <p><a href="https://relayops-two.vercel.app">Live showcase</a> · <a href="https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md">Case study</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent"><img src="./assets/evidence.png" width="100%" alt="Evidence Agent" /></a>
+  <p>Claude Code + MCP + skills over openFDA, ClinicalTrials.gov, CMS. <strong>95%</strong> pass on a 30-task golden eval.</p>
+  <p><code>MCP</code> <code>Claude Code</code> <code>Agent Skills</code> <code>Evaluation</code></p>
+  <p><a href="https://github.com/Akhilesh-Vangala/healthcare-evidence-agent">Results &amp; reproducibility</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/agent-config-bench"><img src="./assets/bench.png" width="100%" alt="Config Bench" /></a>
+  <p>Ablation of tools, skills, and model choice with an automatic grader and paired bootstrap CIs.</p>
+  <p><code>Experiment Design</code> <code>Bootstrap CIs</code> <code>LLM Evaluation</code></p>
+  <p><a href="https://github.com/Akhilesh-Vangala/agent-config-bench">Read the benchmark</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/Nexus"><img src="./assets/nexus.png" width="100%" alt="Nexus" /></a>
+  <p>Research advisor discovery with live retrieval, semantic matching, and citation-grounded synthesis.</p>
+  <p><code>TypeScript</code> <code>Retrieval</code> <code>Embeddings</code> <code>LLMs</code></p>
+  <p><a href="https://github.com/Akhilesh-Vangala/Nexus">Architecture</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration"><img src="./assets/lane.png" width="100%" alt="Lane Restore" /></a>
+  <p>CLRerNet detection + LoRA-tuned Qwen Image Edit for dashcam lane restoration.</p>
+  <p><code>Computer Vision</code> <code>Fine-tuning</code> <code>PyTorch</code> <code>Qwen</code></p>
+  <p><a href="https://github.com/Akhilesh-Vangala/generative-lane-restoration">Before / after</a></p>
+</td>
+</tr>
+</table>
+
+> **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
 
 ## Experience
 
