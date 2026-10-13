@@ -8,7 +8,7 @@
 <br/>
 
 **AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
-MS Data Science @ NYU Courant · Expected 2027
+MS Data Science @ NYU Courant
 
 [Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [Email](mailto:sv3129@nyu.edu) · [All repos](https://github.com/Akhilesh-Vangala?tab=repositories)
 
