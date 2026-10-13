@@ -102,15 +102,45 @@ Python · SQL · TypeScript · Java · C++ · R · Bash · React · FastAPI · P
 
 ## Experience
 
-| Role | Org | Focus |
-| --- | --- | --- |
-| AI/ML Engineer (Capstone) | **NYU Center for Data Science** | ActiveSysID: active learning for dynamical systems |
-| AI/ML Engineer, GRA | **NYU Rory Meyers** | NIH Alzheimer's genomic sequencing: scalable IBD association |
-| AI/ML Engineer Intern | **SAP Americas** | S/4HANA ETL / validation across 15 domains, 2.1M+ records |
-| AI Web Developer | **NYU Courant** | [Courant AI site](https://cims.nyu.edu/dynamic/) |
-| AI/ML Engineer, GRA | **Hochwagen Lab, NYU** | NIH All of Us pipelines across 200K+ samples |
-| AI/ML Engineer | **Virinchi Hospitals** | GPT-4 tool-calling + RAG agents for hospital ops |
-| AI Software Engineer Intern | **Dascase Technologies** | FastAPI / AWS Lambda; p95 850ms → 320ms |
+<table>
+<tr>
+<td width="34%" valign="top"><b>AI/ML Engineer (Capstone)</b><br/><sub>Sep 2026 - Present · New York, NY</sub></td>
+<td valign="top"><b>NYU Center for Data Science</b><br/>
+Building <b>ActiveSysID</b>, a closed-loop active learning pipeline for dynamical systems using latent neural dynamics models and ensemble uncertainty to select the most informative experiments.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI/ML Engineer - Graduate Research Assistant</b><br/><sub>May 2026 - Present · Hybrid</sub></td>
+<td valign="top"><b>NYU Rory Meyers College of Nursing</b><br/>
+NIH Alzheimer's Genomic Sequencing Project: developing scalable IBD-based association testing; extending to binary and survival outcomes with large-scale simulation and HPC validation.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI/ML Engineer Intern</b><br/><sub>Jun 2026 - Aug 2026 · Dallas, TX</sub></td>
+<td valign="top"><b>SAP Americas</b> <sub>(via SDVS Technologies)</sub><br/>
+Built Python/SQL ETL and validation for SAP S/4HANA across 15 domains, 149 schemas, and <b>2.1M+</b> records. Applied LLM-assisted mapping, documentation, and test generation with the SAP Data Engineering team.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI Web Developer</b><br/><sub>Jul 2026 - Sep 2026 · Hybrid</sub></td>
+<td valign="top"><b>NYU Courant Institute of Mathematics, Computing, and Data Science</b><br/>
+Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a>; used LLM-assisted workflows to improve accessibility of AI research content.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI/ML Engineer - Graduate Research Assistant</b><br/><sub>Feb 2026 - May 2026 · On-site</sub></td>
+<td valign="top"><b>Hochwagen Lab, NYU</b><br/>
+Built NIH All of Us genomic pipelines across <b>200K+</b> samples and <b>20+</b> disease cohorts in Python, SQL, and BigQuery; feature engineering, predictive modeling, and automated QC.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI/ML Engineer</b><br/><sub>Aug 2024 - Aug 2025 · Hyderabad</sub></td>
+<td valign="top"><b>Virinchi Hospitals</b><br/>
+Built GPT-4/GPT-4o tool-calling and RAG agents for hospital operations, billing, and reporting (Azure OpenAI, LangChain, FastAPI, read-only HIS SQL), with golden-set evals and mandatory human review on clinical outputs.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI Software Engineer Intern</b><br/><sub>May 2024 - Jul 2024 · Remote</sub></td>
+<td valign="top"><b>Dascase Technologies</b><br/>
+Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-assisted retrieval; <b>99.5%</b> request success and p95 latency cut from <b>850ms to 320ms</b>.</td>
+</tr>
+</table>
+
+---
 
 ## Also shipping
 
