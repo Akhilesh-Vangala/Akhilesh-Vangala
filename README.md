@@ -60,22 +60,87 @@ observe → hypothesize → simulate → review → execute
 
 ## Skills
 
-**Languages**  
-Python · SQL · TypeScript · Java · C++ · R · Bash  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,aws,ts,react,git,linux&perline=10" alt="core stack" />
+</div>
 
-**AI & ML**  
-PyTorch · LLMs · RAG · Fine-tuning (LoRA) · Active learning · scikit-learn · Model evaluation · Uncertainty quantification  
+<br/>
 
-**AI Engineering**  
-Agentic AI · LangGraph · MCP · NL→SQL · Prompt engineering · Guardrails · Golden eval suites · HITL review  
+<table>
+<tr>
+<td width="22%" valign="top" align="center"><b>Languages</b></td>
+<td>
 
-**Production & FDE**  
-FastAPI · REST APIs · AWS Lambda · Docker · Microservices · CI/CD · Latency optimization · Technical documentation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Data & Platform**  
-PostgreSQL · BigQuery · Spark · ETL · System design · HPC / SLURM · Git  
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>AI &amp; ML</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,aws,ts,git&perline=8" alt="tech icons" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/Fine--tuning%20(LoRA)-7C3AED?style=for-the-badge)
+![Active Learning](https://img.shields.io/badge/Active%20Learning-5C2D91?style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0369A1?style=for-the-badge)
+![Uncertainty](https://img.shields.io/badge/Uncertainty%20Quantification-BE123C?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>AI Engineering</b></td>
+<td>
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-BE123C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge)
+![NL2SQL](https://img.shields.io/badge/NL%E2%86%92SQL-0284C7?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge)
+![Guardrails](https://img.shields.io/badge/Guardrails-B45309?style=for-the-badge)
+![Golden Evals](https://img.shields.io/badge/Golden%20Eval%20Suites-065F46?style=for-the-badge)
+![HITL](https://img.shields.io/badge/HITL%20Review-F59E0B?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>Production &amp; FDE</b></td>
+<td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1E3A8A?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Latency](https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge)
+![Docs](https://img.shields.io/badge/Technical%20Documentation-475569?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>Data &amp; Platform</b></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-455A64?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-1B4F72?style=for-the-badge)
+![HPC](https://img.shields.io/badge/HPC%20%2F%20SLURM-334155?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
