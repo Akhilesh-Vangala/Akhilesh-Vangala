@@ -2,7 +2,7 @@
 
 # Sai Akhilesh Vangala
 
-**AI Engineer** · Applied GenAI · Agentic Systems  
+**AI Engineer** · Agent Systems · LLMs · RAG · MCP  
 MS Data Science @ NYU Courant
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=flat-square&logo=github)](https://akhilesh-vangala.github.io/)
@@ -11,7 +11,7 @@ MS Data Science @ NYU Courant
 
 </div>
 
-Applied AI engineer building **tool-using agents**, **retrieval systems**, and **evaluation pipelines**. Focus: LangGraph agents, grounded RAG, golden-set evals, and production FastAPI/AWS services.
+AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
 
 ---
 
