@@ -1,20 +1,3 @@
-<div align="center">
-
-# Sai Akhilesh Vangala
-
-**AI Engineer** · Agent Systems · LLMs · RAG · MCP  
-MS Data Science @ NYU Courant
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=flat-square&logo=github)](https://akhilesh-vangala.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-nyu)
-[![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068c?style=flat-square)](mailto:sv3129@nyu.edu)
-
-</div>
-
-AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
-
----
-
 ## Flagship systems
 
 ### [VerifyOps](https://github.com/Akhilesh-Vangala/verifyops) · data-incident agent
@@ -47,14 +30,6 @@ observe → hypothesize → simulate → review → execute
 | [**agent-config-bench**](https://github.com/Akhilesh-Vangala/agent-config-bench) | Ablation bench isolating tools, skills, and model cost on the same golden set and grader |
 | [**bioroute**](https://github.com/Akhilesh-Vangala/bioroute) | Hosted vs open-weight router for agent routing and compliance (F1, ECE, latency, cost, licensing) |
 | [**querypilot**](https://github.com/Akhilesh-Vangala/querypilot) | Guardrailed NL→SQL agent with DROP/DML refusal and warehouse execution-accuracy scoring |
-
-## ML systems
-
-| Repo | Description |
-| --- | --- |
-| [**forecastops**](https://github.com/Akhilesh-Vangala/forecastops) | Point-in-time SKU forecasts, Postgres model registry, and PSI drift monitoring |
-| [**lensplan**](https://github.com/Akhilesh-Vangala/lensplan) | Multi-plant lens MILP in Gurobi/HiGHS; LP-costed simulated annealing baseline |
-| [**plantpulse**](https://github.com/Akhilesh-Vangala/plantpulse) | S&OP exception desk ranked by dollar impact, not raw forecast error |
 
 ---
 
@@ -144,6 +119,34 @@ observe → hypothesize → simulate → review → execute
 
 ---
 
+<div align="center">
+
+# Sai Akhilesh Vangala
+
+**AI Engineer** · Agent Systems · LLMs · RAG · MCP  
+MS Data Science @ NYU Courant
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://akhilesh-vangala.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Akhilesh-Vangala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-nyu)
+[![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068c?style=for-the-badge&labelColor=0D1117)](mailto:sv3129@nyu.edu)
+
+AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
+
+</div>
+
+---
+
+## ML systems
+
+| Repo | Description |
+| --- | --- |
+| [**forecastops**](https://github.com/Akhilesh-Vangala/forecastops) | Point-in-time SKU forecasts, Postgres model registry, and PSI drift monitoring |
+| [**lensplan**](https://github.com/Akhilesh-Vangala/lensplan) | Multi-plant lens MILP in Gurobi/HiGHS; LP-costed simulated annealing baseline |
+| [**plantpulse**](https://github.com/Akhilesh-Vangala/plantpulse) | S&OP exception desk ranked by dollar impact, not raw forecast error |
+
+---
+
 ## Experience
 
 <table>
@@ -209,8 +212,6 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 ---
 
 <div align="center">
-
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [GitHub](https://github.com/Akhilesh-Vangala)  
 
 **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com**
 
