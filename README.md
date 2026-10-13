@@ -91,19 +91,6 @@ observe → hypothesize → simulate → review → execute
 
 ---
 
-## Selected results
-
-| Metric | Context |
-| --- | --- |
-| **38/38** | VerifyOps end-to-end on fixed synthetic corpus |
-| **95% vs 20%** | Healthcare evidence agent vs fixed-pipeline baseline (30 golden tasks) |
-| **12/12** | QueryPilot NL→SQL golden execution-accuracy evals |
-| **240** | Controlled agent-config ablation runs (tools 23%→80%, skills +15 pts) |
-| **0.99 vs 1.00** | Open-weight router F1 (Qwen) vs Claude Haiku |
-| **850ms → 320ms** | Production API p95 latency (Dascase) |
-
----
-
 <div align="center">
 
 [Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · [GitHub](https://github.com/Akhilesh-Vangala)  
