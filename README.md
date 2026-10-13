@@ -1,17 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Akhilesh Vangala, AI Engineer: agents, evaluation, and backend ML systems" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png" />
+  <img src="./assets/hero-dark.png" width="100%" alt="Akhilesh Vangala, AI Engineer at NYU Courant and Center for Data Science" />
 </picture>
 
 <br/>
-
-<a href="https://cims.nyu.edu/"><img src="./assets/nyu-courant.svg" height="40" alt="NYU Courant" /></a>
-&nbsp;
-<a href="https://cds.nyu.edu/"><img src="./assets/nyu-cds.svg" height="40" alt="NYU Center for Data Science" /></a>
-
-<br/><br/>
 
 **AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
 MS Data Science @ NYU Courant · Expected 2027
