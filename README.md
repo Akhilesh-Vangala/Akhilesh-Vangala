@@ -1,7 +1,5 @@
 <div align="center">
 
-# Sai Akhilesh Vangala
-
 **AI Engineer** · Agent Systems · LLMs · RAG · MCP  
 MS Data Science @ NYU Courant
 
