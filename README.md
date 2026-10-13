@@ -8,7 +8,7 @@ MS Data Science @ NYU Courant
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-nyu)
 [![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068c?style=for-the-badge&labelColor=0D1117)](mailto:sv3129@nyu.edu)
 
-AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
+AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP**: tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
 
 </div>
 
