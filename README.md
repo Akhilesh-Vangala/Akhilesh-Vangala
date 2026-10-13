@@ -1,3 +1,21 @@
+<div align="center">
+
+# Sai Akhilesh Vangala
+
+**AI Engineer** · Agent Systems · LLMs · RAG · MCP  
+MS Data Science @ NYU Courant
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://akhilesh-vangala.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Akhilesh-Vangala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-nyu)
+[![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068c?style=for-the-badge&labelColor=0D1117)](mailto:sv3129@nyu.edu)
+
+AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
+
+</div>
+
+---
+
 ## Flagship systems
 
 ### [VerifyOps](https://github.com/Akhilesh-Vangala/verifyops) · data-incident agent
@@ -116,24 +134,6 @@ observe → hypothesize → simulate → review → execute
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-# Sai Akhilesh Vangala
-
-**AI Engineer** · Agent Systems · LLMs · RAG · MCP  
-MS Data Science @ NYU Courant
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akhilesh--vangala.github.io-3ECFBA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://akhilesh-vangala.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Akhilesh--Vangala-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Akhilesh-Vangala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-nyu)
-[![Email](https://img.shields.io/badge/sv3129%40nyu.edu-57068c?style=for-the-badge&labelColor=0D1117)](mailto:sv3129@nyu.edu)
-
-AI engineer focused on **agent systems**, **LLMs**, **RAG**, and **MCP** — tool-using agents, grounded retrieval, golden-set evals, and production FastAPI/AWS services.
-
-</div>
 
 ---
 
