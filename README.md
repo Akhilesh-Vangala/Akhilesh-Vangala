@@ -168,14 +168,14 @@ Building <b>ActiveSysID</b>, a closed-loop active learning pipeline for dynamica
 NIH Alzheimer's Genomic Sequencing Project: developing scalable IBD-based association testing; extending to binary and survival outcomes with large-scale simulation and HPC validation.</td>
 </tr>
 <tr>
-<td valign="top"><b>AI/ML Engineer Intern</b><br/><sub>Jun 2026 - Aug 2026 · Dallas, TX</sub></td>
-<td valign="top"><b>SAP Americas</b> <sub>(via SDVS Technologies)</sub><br/>
-Built Python/SQL ETL and validation for SAP S/4HANA across 15 domains, 149 schemas, and <b>2.1M+</b> records. Applied LLM-assisted mapping, documentation, and test generation with the SAP Data Engineering team.</td>
-</tr>
-<tr>
 <td valign="top"><b>AI Web Developer</b><br/><sub>Jul 2026 - Sep 2026 · Hybrid</sub></td>
 <td valign="top"><b>NYU Courant Institute of Mathematics, Computing, and Data Science</b><br/>
 Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a>; used LLM-assisted workflows to improve accessibility of AI research content.</td>
+</tr>
+<tr>
+<td valign="top"><b>AI/ML Engineer Intern</b><br/><sub>Jun 2026 - Aug 2026 · Dallas, TX</sub></td>
+<td valign="top"><b>SAP Americas</b> <sub>(via SDVS Technologies)</sub><br/>
+Built Python/SQL ETL and validation for SAP S/4HANA across 15 domains, 149 schemas, and <b>2.1M+</b> records. Applied LLM-assisted mapping, documentation, and test generation with the SAP Data Engineering team.</td>
 </tr>
 <tr>
 <td valign="top"><b>AI/ML Engineer - Graduate Research Assistant</b><br/><sub>Feb 2026 - May 2026 · On-site</sub></td>
@@ -207,6 +207,6 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 
 ## Contact
 
-Open to **AI Engineer / Applied AI / ML Engineer** roles building agent platforms, RAG systems, and evaluation-heavy products.
+Happy to talk about **agent platforms**, **RAG systems**, and **evaluation-heavy AI products**.
 
 [Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/akhilesh-nyu) · **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com**

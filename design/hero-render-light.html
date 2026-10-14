@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { width: 1200px; height: 420px; overflow: hidden; background: #eef2ff; font-family: "IBM Plex Sans", system-ui, sans-serif; }
+    .hero {
+      width: 1200px; height: 420px; position: relative; border-radius: 28px; overflow: hidden;
+      background: #f8fafc;
+      border: 1px solid rgba(15, 23, 42, 0.1);
+    }
+    .aurora {
+      position: absolute; inset: -10%;
+      background:
+        radial-gradient(ellipse 45% 55% at 10% 15%, rgba(16, 185, 129, 0.22), transparent 60%),
+        radial-gradient(ellipse 40% 50% at 90% 20%, rgba(14, 165, 233, 0.2), transparent 58%),
+        radial-gradient(ellipse 50% 55% at 70% 90%, rgba(139, 92, 246, 0.18), transparent 60%),
+        radial-gradient(ellipse 35% 40% at 25% 90%, rgba(244, 114, 182, 0.14), transparent 55%);
+    }
+    .mesh {
+      position: absolute; inset: 0; opacity: 0.35;
+      background-image:
+        linear-gradient(rgba(15,23,42,0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(15,23,42,0.05) 1px, transparent 1px);
+      background-size: 34px 34px;
+      mask-image: radial-gradient(ellipse 75% 70% at 45% 40%, #000 15%, transparent 72%);
+    }
+    .top-bar {
+      position: absolute; top: 0; left: 0; right: 0; height: 4px;
+      background: linear-gradient(90deg, #10b981 0%, #0ea5e9 35%, #8b5cf6 68%, #f472b6 100%);
+    }
+    .content {
+      position: relative; z-index: 2; display: grid; grid-template-columns: 1.15fr 0.85fr;
+      height: 100%; padding: 34px 42px; gap: 26px; align-items: center;
+    }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+    .chip {
+      display: inline-flex; align-items: center; height: 30px; padding: 0 12px; border-radius: 999px;
+      font-size: 11px; font-weight: 750; letter-spacing: 0.08em; text-transform: uppercase;
+      border: 1px solid transparent;
+    }
+    .chip.c1 { background: #ecfdf5; border-color: #6ee7b7; color: #047857; }
+    .chip.c2 { background: #e0f2fe; border-color: #7dd3fc; color: #0369a1; }
+    .chip.c3 { background: #f5f3ff; border-color: #c4b5fd; color: #6d28d9; }
+    .kicker {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 12px;
+      color: #475569; font-size: 12px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase;
+    }
+    .dot {
+      width: 9px; height: 9px; border-radius: 50%;
+      background: radial-gradient(circle at 30% 30%, #fff, #10b981 50%, #0ea5e9);
+      box-shadow: 0 0 0 4px rgba(16,185,129,0.15);
+    }
+    h1 {
+      font-family: "Space Grotesk", sans-serif; font-size: 60px; font-weight: 700;
+      letter-spacing: -0.045em; line-height: 0.95; margin-bottom: 10px;
+      background: linear-gradient(110deg, #0f172a 10%, #0369a1 45%, #6d28d9 80%);
+      -webkit-background-clip: text; background-clip: text; color: transparent;
+    }
+    .role {
+      font-family: "Space Grotesk", sans-serif; font-size: 20px; font-weight: 650;
+      letter-spacing: -0.02em; margin-bottom: 12px;
+      background: linear-gradient(90deg, #059669, #0284c7);
+      -webkit-background-clip: text; background-clip: text; color: transparent;
+    }
+    .lead { font-size: 17px; line-height: 1.45; color: #475569; max-width: 520px; margin-bottom: 22px; font-weight: 500; }
+    .pills { display: flex; flex-wrap: wrap; gap: 9px; }
+    .pill {
+      padding: 10px 14px; border-radius: 999px; font-size: 11px; font-weight: 750;
+      letter-spacing: 0.1em; text-transform: uppercase; color: #0f172a; background: #fff;
+      border: 1px solid #e2e8f0;
+    }
+    .pill:nth-child(1) { border-color: #6ee7b7; background: #ecfdf5; color: #047857; }
+    .pill:nth-child(2) { border-color: #7dd3fc; background: #e0f2fe; color: #0369a1; }
+    .pill:nth-child(3) { border-color: #c4b5fd; background: #f5f3ff; color: #6d28d9; }
+    .panel {
+      justify-self: end; width: 100%; max-width: 380px; border-radius: 22px; overflow: hidden;
+      background: #fff; border: 1px solid #e2e8f0;
+      box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+      position: relative;
+    }
+    .panel::before {
+      content: ""; position: absolute; inset: 0; padding: 1.5px; border-radius: 22px;
+      background: linear-gradient(135deg, #10b981, #0ea5e9, #8b5cf6, #f472b6);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor; mask-composite: exclude;
+      pointer-events: none;
+    }
+    .panel-chrome {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 14px 16px; border-bottom: 1px solid #f1f5f9;
+      background: linear-gradient(90deg, #ecfdf5, #e0f2fe, #f5f3ff);
+    }
+    .panel-label {
+      font-size: 11px; font-weight: 750; letter-spacing: 0.16em; text-transform: uppercase; color: #475569;
+    }
+    .traffic { display: flex; gap: 6px; }
+    .traffic i { width: 9px; height: 9px; border-radius: 50%; display: block; }
+    .traffic i:nth-child(1) { background: #ff5f57; }
+    .traffic i:nth-child(2) { background: #febc2e; }
+    .traffic i:nth-child(3) { background: #28c840; }
+    .panel-body { padding: 18px 16px 16px; }
+    .flow {
+      display: grid; grid-template-columns: 1fr auto 1fr auto 1fr; gap: 6px; align-items: center; margin-bottom: 14px;
+    }
+    .node {
+      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;
+      min-height: 72px; border-radius: 14px; text-align: center; padding: 8px 4px;
+      font-family: "Space Grotesk", sans-serif; font-size: 12px; font-weight: 700;
+      border: 1px solid #e2e8f0; background: #f8fafc; color: #0f172a;
+    }
+    .node span { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: #94a3b8; font-weight: 650; }
+    .node.n1 { border-color: #6ee7b7; background: #ecfdf5; color: #047857; }
+    .node.n2 { border-color: #7dd3fc; background: #e0f2fe; color: #0369a1; }
+    .node.n3 { border-color: #c4b5fd; background: #f5f3ff; color: #6d28d9; }
+    .arrow { font-size: 16px; font-weight: 700; }
+    .arrow.a1 { color: #10b981; }
+    .arrow.a2 { color: #8b5cf6; }
+    .metric-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 11px; }
+    .metric {
+      border-radius: 12px; padding: 10px 11px; border: 1px solid #e2e8f0; background: #f8fafc;
+    }
+    .metric:first-child { border-color: #a7f3d0; background: #ecfdf5; }
+    .metric:last-child { border-color: #fbcfe8; background: #fdf2f8; }
+    .metric strong { display: block; font-family: "Space Grotesk", sans-serif; font-size: 15px; color: #0f172a; }
+    .metric em { display: block; margin-top: 2px; font-style: normal; font-size: 11px; color: #64748b; font-weight: 600; }
+    .footnote { font-size: 12px; color: #64748b; line-height: 1.4; }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <div class="aurora"></div>
+    <div class="mesh"></div>
+    <div class="top-bar"></div>
+    <div class="content">
+      <div>
+        <div class="chips">
+          <span class="chip c1">NYU</span>
+          <span class="chip c2">Courant</span>
+          <span class="chip c3">Data Science</span>
+        </div>
+        <div class="kicker"><span class="dot"></span> AI Engineering · M.S. Data Science</div>
+        <h1>Akhilesh Vangala</h1>
+        <p class="role">AI Engineer · Agentic Systems</p>
+        <p class="lead">Building AI systems that survive real-world constraints: tools, verification, evals, and human review.</p>
+        <div class="pills">
+          <span class="pill">LLM Agents</span>
+          <span class="pill">Evaluation</span>
+          <span class="pill">Backend / ML</span>
+        </div>
+      </div>
+      <aside class="panel">
+        <div class="panel-chrome">
+          <span class="panel-label">Reliability loop</span>
+          <span class="traffic"><i></i><i></i><i></i></span>
+        </div>
+        <div class="panel-body">
+          <div class="flow">
+            <div class="node n1"><span>01</span>Agent</div>
+            <div class="arrow a1">→</div>
+            <div class="node n2"><span>02</span>Verify</div>
+            <div class="arrow a2">→</div>
+            <div class="node n3"><span>03</span>HITL</div>
+          </div>
+          <div class="metric-row">
+            <div class="metric"><strong>Independent</strong><em>checks before action</em></div>
+            <div class="metric"><strong>Auditable</strong><em>exact-version review</em></div>
+          </div>
+          <p class="footnote">The model proposes. Verification and humans decide.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</body>
+</html>
