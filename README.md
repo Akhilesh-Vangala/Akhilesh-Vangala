@@ -8,7 +8,8 @@
 <br/>
 
 **AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
-MS Data Science @ NYU Courant
+MS Data Science @ New York University, Courant Institute of Mathematics, Computing, and Data Science  
+New York City Metropolitan Area
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827)](https://akhilesh-vangala.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/akhilesh-nyu)
