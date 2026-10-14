@@ -163,7 +163,7 @@ NIH Alzheimer's Genomic Sequencing Project: developing scalable IBD-based associ
 </tr>
 <tr>
 <td valign="top"><b>AI Web Developer</b><br/><sub>Jul 2026 - Sep 2026 · Hybrid</sub></td>
-<td valign="top"><b>NYU Courant Institute of Mathematics, Computing, and Data Science</b><br/>
+<td valign="top"><b>New York University, Courant Institute of Mathematics, Computing, and Data Science</b><br/>
 Shipped UI, research layouts, and interactive components for the <a href="https://cims.nyu.edu/dynamic/">NYU Courant AI website</a>; used LLM-assisted workflows to improve accessibility of AI research content.</td>
 </tr>
 <tr>
@@ -192,11 +192,11 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 
 ## Also shipping
 
-[QueryPilot](https://github.com/Akhilesh-Vangala/querypilot) · [BioRoute](https://github.com/Akhilesh-Vangala/bioroute) · [CurateX MCP](https://github.com/Akhilesh-Vangala/curatex-mcp) · [ForecastOps](https://github.com/Akhilesh-Vangala/forecastops) · [LensPlan](https://github.com/Akhilesh-Vangala/lensplan) · [PlantPulse](https://github.com/Akhilesh-Vangala/plantpulse)
+[QueryPilot](https://github.com/Akhilesh-Vangala/querypilot) · [Agent Router Bench](https://github.com/Akhilesh-Vangala/bioroute) · [CurateX MCP](https://github.com/Akhilesh-Vangala/curatex-mcp) · [ForecastOps](https://github.com/Akhilesh-Vangala/forecastops) · [LensPlan](https://github.com/Akhilesh-Vangala/lensplan) · [PlantPulse](https://github.com/Akhilesh-Vangala/plantpulse)
 
 ## Education
 
-**M.S. Data Science**, New York University (Courant / CDS) · Sept 2025 - May 2027  
+**M.S. Data Science**, New York University, Courant Institute of Mathematics, Computing, and Data Science · Sept 2025 - May 2027  
 **B.Tech CSE (AI & ML)**, GITAM University · 2021 - 2025
 
 ## Contact
