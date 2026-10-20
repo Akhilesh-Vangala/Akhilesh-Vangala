@@ -12,7 +12,7 @@ async function shot(htmlFile, outFile) {
     headless: true,
   });
   const page = await browser.newPage({
-    viewport: { width: 1200, height: 420 },
+    viewport: { width: 1200, height: 248 },
     deviceScaleFactor: 2,
   });
   await page.goto("file://" + path.join(__dirname, htmlFile), {
@@ -21,7 +21,7 @@ async function shot(htmlFile, outFile) {
   await page.evaluate(() => document.fonts.ready);
   await page.waitForTimeout(400);
   await page.locator(".hero").screenshot({
-    path: path.join(__dirname, "assets", outFile),
+    path: path.join(__dirname, "..", "assets", outFile),
     type: "png",
   });
   await browser.close();

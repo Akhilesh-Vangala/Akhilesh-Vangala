@@ -5,59 +5,28 @@
   <img src="./assets/hero-dark.png" width="100%" alt="Akhilesh Vangala, AI Engineer" />
 </picture>
 
-<br/>
-
-**AI Engineer** · Agentic Systems · Applied GenAI · Backend / ML  
-MS Data Science @ New York University, Courant Institute of Mathematics, Computing, and Data Science  
-New York City Metropolitan Area
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827)](https://akhilesh-vangala.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/sai-akhilesh-vangala)
-[![Email](https://img.shields.io/badge/Email-sv3129%40nyu.edu-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:sv3129@nyu.edu)
-[![Repos](https://img.shields.io/badge/GitHub-All%20repos-64748B?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/Akhilesh-Vangala?tab=repositories)
-
 </div>
 
-I build **evidence-grounded agent systems**: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action. Focused on reliable LLM products, not demo-only pipelines.
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · [Email](mailto:sv3129@nyu.edu) · [Repositories](https://github.com/Akhilesh-Vangala?tab=repositories)
+
+I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action.
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/Akhilesh-Vangala/verifyops">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=verifyops&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=verifyops&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="verifyops" />
-    </picture>
-  </a>
-  <a href="https://github.com/Akhilesh-Vangala/relayops">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=relayops&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=relayops&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="relayops" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=what-can-a-plot-reveal&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=what-can-a-plot-reveal&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="what-can-a-plot-reveal" />
-    </picture>
-  </a>
-  <a href="https://github.com/Akhilesh-Vangala/querypilot">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=querypilot&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=querypilot&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="querypilot" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Akhilesh-Vangala/ledgerflow">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=ledgerflow&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=ledgerflow&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="ledgerflow" />
-    </picture>
-  </a>
-</p>
+**[verifyops](https://github.com/Akhilesh-Vangala/verifyops)**  
+Evidence-backed SQL incident investigation with checkpointed LangGraph, bounded analytics, independent dbt repair verification, and exact-version human review.
+
+**[relayops](https://github.com/Akhilesh-Vangala/relayops)**  
+Evidence-grounded enterprise workflow agent: checkpointed LangGraph, browser observations, independent simulation, exact-version review, and receipted sandbox actions.
+
+**[what-can-a-plot-reveal](https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal)**  
+Detection versus diagnosis in ML diagnostic plots for human and AI readers.
+
+**[querypilot](https://github.com/Akhilesh-Vangala/querypilot)**  
+Agentic analytics with executable metrics, reconciled period comparisons, descriptive Shapley accounting, and inspectable SQL evidence. FastAPI, LangGraph, PostgreSQL, and React.
+
+**[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow)**  
+Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
 
 > **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
 
