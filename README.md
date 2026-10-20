@@ -22,29 +22,42 @@ I build **evidence-grounded agent systems**: tool-using workflows with auditable
 
 ## Projects
 
-**[VerifyOps](https://github.com/Akhilesh-Vangala/verifyops)**  
-Restricted SQL investigation, independent dbt repair checks, persistent state, and exact-version human review.  
-[Live showcase](https://verifyops.vercel.app) · [Case study](https://github.com/Akhilesh-Vangala/verifyops/blob/main/docs/CASE-STUDY.md)
-
-**[RelayOps](https://github.com/Akhilesh-Vangala/relayops)**  
-Browser observations, cited hypotheses, private-copy simulation, immutable review, and receipted sandbox actions.  
-[Live showcase](https://relayops-two.vercel.app) · [Case study](https://github.com/Akhilesh-Vangala/relayops/blob/main/docs/CASE-STUDY.md)
-
-**[Healthcare Evidence Agent](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent)**  
-Claude Code, MCP, and skills over openFDA, ClinicalTrials.gov, and CMS. **95%** pass on a 30-task golden eval.  
-[Results and reproducibility](https://github.com/Akhilesh-Vangala/healthcare-evidence-agent)
-
-**[Agent Config Bench](https://github.com/Akhilesh-Vangala/agent-config-bench)**  
-Ablation of tools, skills, and model choice with an automatic grader and paired bootstrap confidence intervals.  
-[Read the benchmark](https://github.com/Akhilesh-Vangala/agent-config-bench)
-
-**[Nexus](https://github.com/Akhilesh-Vangala/Nexus)**  
-Research advisor discovery with live retrieval, semantic matching, and citation-grounded synthesis.  
-[Architecture](https://github.com/Akhilesh-Vangala/Nexus)
-
-**[Generative Lane Restoration](https://github.com/Akhilesh-Vangala/generative-lane-restoration)**  
-CLRerNet detection and LoRA-tuned Qwen Image Edit for dashcam lane restoration.  
-[Before and after](https://github.com/Akhilesh-Vangala/generative-lane-restoration)
+<p align="center">
+  <a href="https://github.com/Akhilesh-Vangala/verifyops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=verifyops&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=verifyops&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="verifyops" />
+    </picture>
+  </a>
+  <a href="https://github.com/Akhilesh-Vangala/relayops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=relayops&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=relayops&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="relayops" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=what-can-a-plot-reveal&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=what-can-a-plot-reveal&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="what-can-a-plot-reveal" />
+    </picture>
+  </a>
+  <a href="https://github.com/Akhilesh-Vangala/querypilot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=querypilot&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=querypilot&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="querypilot" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Akhilesh-Vangala/ledgerflow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=ledgerflow&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilesh-Vangala&repo=ledgerflow&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&icon_color=57606a" alt="ledgerflow" />
+    </picture>
+  </a>
+</p>
 
 > **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
 
@@ -89,12 +102,6 @@ Built GPT-4/GPT-4o tool-calling and RAG agents for hospital operations, billing,
 Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-assisted retrieval; <b>99.5%</b> request success and p95 latency cut from <b>850ms to 320ms</b>.</td>
 </tr>
 </table>
-
----
-
-## Additional projects
-
-[QueryPilot](https://github.com/Akhilesh-Vangala/querypilot) · [Agent Router Bench](https://github.com/Akhilesh-Vangala/bioroute) · [CurateX MCP](https://github.com/Akhilesh-Vangala/curatex-mcp) · [ForecastOps](https://github.com/Akhilesh-Vangala/forecastops) · [LensPlan](https://github.com/Akhilesh-Vangala/lensplan) · [PlantPulse](https://github.com/Akhilesh-Vangala/plantpulse)
 
 ---
 
