@@ -63,6 +63,147 @@ I build **evidence-grounded agent systems**: tool-using workflows with auditable
 
 ---
 
+## Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,kubernetes,aws,ts,react,nextjs,redis,git&perline=12" alt="core stack" height="36" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" height="18" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" height="18" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" height="18" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0b1215" alt="JavaScript" height="18" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0b1215" alt="Java" height="18" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++" height="18" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff" alt="R" height="18" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=0b1215" alt="Bash" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>AGENTIC AI</b></sub><br/>
+<img src="https://img.shields.io/badge/Agentic%20AI-BE123C?style=for-the-badge" alt="Agentic AI" height="18" />
+<img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logo=langgraph&logoColor=7FC8FF" alt="LangGraph" height="18" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=7FC8FF" alt="LangChain" height="18" />
+<img src="https://img.shields.io/badge/MCP-0EA5E9?style=for-the-badge&logo=modelcontextprotocol&logoColor=0b1215" alt="MCP" height="18" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=0b1215" alt="Claude Code" height="18" />
+<img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=for-the-badge" alt="Tool Calling" height="18" />
+<img src="https://img.shields.io/badge/Structured%20Outputs-BE185D?style=for-the-badge" alt="Structured Outputs" height="18" />
+<img src="https://img.shields.io/badge/Multimodal%20Agents-0891B2?style=for-the-badge" alt="Multimodal Agents" height="18" />
+<img src="https://img.shields.io/badge/Browser%20Automation%20(Playwright)-2EAD33?style=for-the-badge" alt="Browser Automation (Playwright)" height="18" />
+<img src="https://img.shields.io/badge/Durable%20Checkpoints-4338CA?style=for-the-badge" alt="Durable Checkpoints" height="18" />
+<img src="https://img.shields.io/badge/Sandboxed%20Actions-B45309?style=for-the-badge" alt="Sandboxed Actions" height="18" />
+<img src="https://img.shields.io/badge/HITL%20Review-D97706?style=for-the-badge" alt="HITL Review" height="18" />
+<img src="https://img.shields.io/badge/Guardrails-9A3412?style=for-the-badge" alt="Guardrails" height="18" />
+<img src="https://img.shields.io/badge/NL%E2%86%92SQL-0284C7?style=for-the-badge" alt="NL→SQL" height="18" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge" alt="Prompt Engineering" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>LLMS &amp; RETRIEVAL</b></sub><br/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" height="18" />
+<img src="https://img.shields.io/badge/Claude%20API-C2410C?style=for-the-badge&logo=anthropic&logoColor=ffffff" alt="Claude API" height="18" />
+<img src="https://img.shields.io/badge/OpenAI%20%2F%20Azure%20OpenAI-10A37F?style=for-the-badge" alt="OpenAI / Azure OpenAI" height="18" />
+<img src="https://img.shields.io/badge/Open--weight%20Models%20(Qwen)-6950EF?style=for-the-badge&logo=qwen&logoColor=ffffff" alt="Open-weight Models (Qwen)" height="18" />
+<img src="https://img.shields.io/badge/Ollama-1F2937?style=for-the-badge&logo=ollama&logoColor=ffffff" alt="Ollama" height="18" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0b1215" alt="Hugging Face" height="18" />
+<img src="https://img.shields.io/badge/Fine--tuning%20(LoRA)-7C3AED?style=for-the-badge" alt="Fine-tuning (LoRA)" height="18" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG" height="18" />
+<img src="https://img.shields.io/badge/Embeddings-0E7490?style=for-the-badge" alt="Embeddings" height="18" />
+<img src="https://img.shields.io/badge/Vector%20Search-155E75?style=for-the-badge" alt="Vector Search" height="18" />
+<img src="https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge" alt="LlamaIndex" height="18" />
+<img src="https://img.shields.io/badge/Model%20Routing-2563EB?style=for-the-badge" alt="Model Routing" height="18" />
+<img src="https://img.shields.io/badge/OpenRouter-4F46E5?style=for-the-badge&logo=openrouter&logoColor=ffffff" alt="OpenRouter" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>EVALUATION &amp; OBSERVABILITY</b></sub><br/>
+<img src="https://img.shields.io/badge/Golden%20Eval%20Suites-065F46?style=for-the-badge" alt="Golden Eval Suites" height="18" />
+<img src="https://img.shields.io/badge/LLM--as--Judge%20Graders-7E22CE?style=for-the-badge" alt="LLM-as-Judge Graders" height="18" />
+<img src="https://img.shields.io/badge/Ablation%20Studies-1D4ED8?style=for-the-badge" alt="Ablation Studies" height="18" />
+<img src="https://img.shields.io/badge/Bootstrap%20CIs-0369A1?style=for-the-badge" alt="Bootstrap CIs" height="18" />
+<img src="https://img.shields.io/badge/Calibration%20(ECE)-0F766E?style=for-the-badge" alt="Calibration (ECE)" height="18" />
+<img src="https://img.shields.io/badge/Uncertainty%20Quantification-BE123C?style=for-the-badge" alt="Uncertainty Quantification" height="18" />
+<img src="https://img.shields.io/badge/OpenTelemetry%20Tracing-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=ffffff" alt="OpenTelemetry Tracing" height="18" />
+<img src="https://img.shields.io/badge/Cost%20%26%20Latency%20Benchmarks-B45309?style=for-the-badge" alt="Cost & Latency Benchmarks" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>ML &amp; DATA SCIENCE</b></sub><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=0b1215" alt="PyTorch" height="18" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=0b1215" alt="scikit-learn" height="18" />
+<img src="https://img.shields.io/badge/XGBoost-1D6FA5?style=for-the-badge" alt="XGBoost" height="18" />
+<img src="https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge" alt="LightGBM" height="18" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=E70488" alt="pandas" height="18" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" height="18" />
+<img src="https://img.shields.io/badge/Active%20Learning-5C2D91?style=for-the-badge" alt="Active Learning" height="18" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0369A1?style=for-the-badge" alt="Computer Vision" height="18" />
+<img src="https://img.shields.io/badge/Time--series%20Forecasting-0D9488?style=for-the-badge" alt="Time-series Forecasting" height="18" />
+<img src="https://img.shields.io/badge/Differential%20Privacy-334155?style=for-the-badge" alt="Differential Privacy" height="18" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=0b1215" alt="Jupyter" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>PRODUCTION &amp; FDE</b></sub><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=0b1215" alt="FastAPI" height="18" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=0b1215" alt="Pydantic" height="18" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" height="18" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=0b1215" alt="Docker" height="18" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" height="18" />
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge" alt="AWS Lambda" height="18" />
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=0b1215" alt="Redis" height="18" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=0b1215" alt="CI/CD" height="18" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" height="18" />
+<img src="https://img.shields.io/badge/Microservices-1E3A8A?style=for-the-badge" alt="Microservices" height="18" />
+<img src="https://img.shields.io/badge/Latency%20Optimization-0D9488?style=for-the-badge" alt="Latency Optimization" height="18" />
+<img src="https://img.shields.io/badge/Customer%20Integrations-7E22CE?style=for-the-badge" alt="Customer Integrations" height="18" />
+<img src="https://img.shields.io/badge/Stakeholder%20Communication-9D174D?style=for-the-badge" alt="Stakeholder Communication" height="18" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-475569?style=for-the-badge" alt="Technical Documentation" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>DATA &amp; PLATFORM</b></sub><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" height="18" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" height="18" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite" height="18" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=0b1215" alt="BigQuery" height="18" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=0b1215" alt="Spark" height="18" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt" height="18" />
+<img src="https://img.shields.io/badge/ETL-455A64?style=for-the-badge" alt="ETL" height="18" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0b1215" alt="Git" height="18" />
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" height="18" />
+<img src="https://img.shields.io/badge/System%20Design-1B4F72?style=for-the-badge" alt="System Design" height="18" />
+<img src="https://img.shields.io/badge/HPC%20%2F%20SLURM-334155?style=for-the-badge&logo=linux&logoColor=ffffff" alt="HPC / SLURM" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub><b>FRONTEND FOR AI PRODUCTS</b></sub><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="18" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" height="18" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=0b1215" alt="Streamlit" height="18" />
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=0b1215" alt="HTML / CSS" height="18" />
+<img src="https://img.shields.io/badge/Research%20Web%20UX-0F766E?style=for-the-badge" alt="Research Web UX" height="18" />
+</div>
+
+---
+
 ## Experience
 
 **AI/ML Engineer (Capstone)**  
@@ -100,34 +241,6 @@ Built GPT-4/GPT-4o tool-calling and RAG agents for hospital operations, billing,
 Dascase Technologies · May 2024 - Jul 2024 · Remote  
 Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-assisted retrieval; **99.5%** request success and p95 latency cut from **850ms to 320ms**.  
 <sub>Python · FastAPI · AWS Lambda · REST APIs · SQL</sub>
-
----
-
-## Skills
-
-**Languages**  
-<sub>Python · SQL · TypeScript · JavaScript · Java · C++ · R · Bash</sub>
-
-**Agentic AI**  
-<sub>Agentic AI · LangGraph · LangChain · MCP · Claude Code · Tool Calling · Structured Outputs · Multimodal Agents · Browser Automation (Playwright) · Durable Checkpoints · Sandboxed Actions · HITL Review · Guardrails · NL→SQL · Prompt Engineering</sub>
-
-**LLMs and retrieval**  
-<sub>LLMs · Claude API · OpenAI / Azure OpenAI · Open-weight Models (Qwen) · Ollama · Hugging Face · Fine-tuning (LoRA) · RAG · Embeddings · Vector Search · LlamaIndex · Model Routing · OpenRouter</sub>
-
-**Evaluation and observability**  
-<sub>Golden Eval Suites · LLM-as-Judge Graders · Ablation Studies · Bootstrap CIs · Calibration (ECE) · Uncertainty Quantification · OpenTelemetry Tracing · Cost & Latency Benchmarks</sub>
-
-**ML and data science**  
-<sub>PyTorch · scikit-learn · XGBoost · LightGBM · pandas · NumPy · Active Learning · Computer Vision · Time-series Forecasting · Differential Privacy · Jupyter</sub>
-
-**Production**  
-<sub>FastAPI · Pydantic · REST APIs · Docker · Kubernetes · AWS Lambda · Redis · CI/CD · Vercel · Microservices · Latency Optimization · Customer Integrations · Stakeholder Communication · Technical Documentation</sub>
-
-**Data and platform**  
-<sub>PostgreSQL · MySQL · SQLite · BigQuery · Spark · dbt · ETL · Git · GitHub · System Design · HPC / SLURM</sub>
-
-**Frontend for AI products**  
-<sub>React · Next.js · Streamlit · HTML / CSS · Research Web UX</sub>
 
 ---
 
