@@ -9,13 +9,6 @@
   <li>🌐 Portfolio: <a href="https://akhilesh-vangala.github.io/">akhilesh-vangala.github.io</a></li>
 </ul>
 
-<p align="center">
-  <a href="https://akhilesh-vangala.github.io/"><img src="./assets/link-portfolio.png" alt="Portfolio" height="88" /></a>
-  <a href="https://www.linkedin.com/in/sai-akhilesh-vangala"><img src="./assets/link-linkedin.png" alt="LinkedIn" height="88" /></a>
-  <a href="mailto:sai.akhilesh.vangala@gmail.com"><img src="./assets/link-email.png" alt="Email" height="88" /></a>
-  <a href="https://github.com/Akhilesh-Vangala?tab=repositories"><img src="./assets/link-github.png" alt="GitHub" height="88" /></a>
-</p>
-
 ## Projects
 
 - **[verifyops](https://github.com/Akhilesh-Vangala/verifyops):** Evidence-backed SQL incident investigation with checkpointed LangGraph, bounded analytics, independent dbt repair verification, and exact-version human review.
