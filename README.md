@@ -1,4 +1,13 @@
-### Hey there
+## Hi there, I am Akhilesh!
+
+<ul>
+  <li>🔭 MS in Data Science @ New York University, Courant Institute</li>
+  <li>💼 AI Engineer focused on agent systems, LLMs, RAG, and evaluation</li>
+  <li>🤔 Areas of interest: Agentic AI, LangGraph, RAG, MCP, LLM evaluation</li>
+  <li>💬 Ask me about evidence-grounded agents, tool calling, and production GenAI</li>
+  <li>📫 Reach me via <a href="https://www.linkedin.com/in/sai-akhilesh-vangala">LinkedIn</a> or <a href="mailto:sai.akhilesh.vangala@gmail.com">sai.akhilesh.vangala@gmail.com</a></li>
+  <li>🌐 Portfolio: <a href="https://akhilesh-vangala.github.io/">akhilesh-vangala.github.io</a></li>
+</ul>
 
 <p align="center">
   <a href="https://akhilesh-vangala.github.io/"><img src="./assets/link-portfolio.png" alt="Portfolio" height="88" /></a>
@@ -6,12 +15,6 @@
   <a href="mailto:sai.akhilesh.vangala@gmail.com"><img src="./assets/link-email.png" alt="Email" height="88" /></a>
   <a href="https://github.com/Akhilesh-Vangala?tab=repositories"><img src="./assets/link-github.png" alt="GitHub" height="88" /></a>
 </p>
-
-## About
-
-I am **Akhilesh Vangala**, an AI Engineer and MS Data Science student at New York University, Courant Institute of Mathematics, Computing, and Data Science, based in the New York City Metropolitan Area.
-
-I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action. Focused on reliable LLM products, not demo-only pipelines. Some projects I have worked on include:
 
 ## Projects
 
