@@ -28,8 +28,6 @@ Agentic analytics with executable metrics, reconciled period comparisons, descri
 **[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow)**  
 Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
 
-> **Scope:** VerifyOps and RelayOps are development workbenches with read-only showcases. Documented demos use synthetic data or scripted diagnostics. Live-model generalization and production connectors are not claimed yet.
-
 ---
 
 ## Skills
