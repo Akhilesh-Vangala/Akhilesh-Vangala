@@ -7,10 +7,6 @@
 
 </div>
 
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · [Email](mailto:sv3129@nyu.edu) · [Repositories](https://github.com/Akhilesh-Vangala?tab=repositories)
-
-I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action.
-
 ## Projects
 
 **[verifyops](https://github.com/Akhilesh-Vangala/verifyops)**  
@@ -27,6 +23,10 @@ Agentic analytics with executable metrics, reconciled period comparisons, descri
 
 **[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow)**  
 Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
+
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · [Email](mailto:sv3129@nyu.edu) · [Repositories](https://github.com/Akhilesh-Vangala?tab=repositories)
+
+I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action.
 
 ---
 
