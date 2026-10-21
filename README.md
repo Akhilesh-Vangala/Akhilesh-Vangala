@@ -1,28 +1,4 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png" />
-  <img src="./assets/hero-dark.png" width="100%" alt="Akhilesh Vangala, AI Engineer" />
-</picture>
-
-</div>
-
-## Projects
-
-**[verifyops](https://github.com/Akhilesh-Vangala/verifyops)**  
-Evidence-backed SQL incident investigation with checkpointed LangGraph, bounded analytics, independent dbt repair verification, and exact-version human review.
-
-**[relayops](https://github.com/Akhilesh-Vangala/relayops)**  
-Evidence-grounded enterprise workflow agent: checkpointed LangGraph, browser observations, independent simulation, exact-version review, and receipted sandbox actions.
-
-**[what-can-a-plot-reveal](https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal)**  
-Detection versus diagnosis in ML diagnostic plots for human and AI readers.
-
-**[querypilot](https://github.com/Akhilesh-Vangala/querypilot)**  
-Agentic analytics with executable metrics, reconciled period comparisons, descriptive Shapley accounting, and inspectable SQL evidence. FastAPI, LangGraph, PostgreSQL, and React.
-
-**[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow)**  
-Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
+### Hey there
 
 <p align="center">
   <a href="https://akhilesh-vangala.github.io/"><img src="./assets/link-portfolio.png" alt="Portfolio" height="88" /></a>
@@ -31,7 +7,19 @@ Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Ha
   <a href="https://github.com/Akhilesh-Vangala?tab=repositories"><img src="./assets/link-github.png" alt="GitHub" height="88" /></a>
 </p>
 
-I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action.
+## About
+
+I am **Akhilesh Vangala**, an AI Engineer and MS Data Science student at New York University, Courant Institute of Mathematics, Computing, and Data Science, based in the New York City Metropolitan Area.
+
+I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action. Focused on reliable LLM products, not demo-only pipelines. Some projects I have worked on include:
+
+## Projects
+
+- **[verifyops](https://github.com/Akhilesh-Vangala/verifyops):** Evidence-backed SQL incident investigation with checkpointed LangGraph, bounded analytics, independent dbt repair verification, and exact-version human review.
+- **[relayops](https://github.com/Akhilesh-Vangala/relayops):** Evidence-grounded enterprise workflow agent with checkpointed LangGraph, browser observations, independent simulation, exact-version review, and receipted sandbox actions.
+- **[what-can-a-plot-reveal](https://github.com/Akhilesh-Vangala/what-can-a-plot-reveal):** Detection versus diagnosis in ML diagnostic plots for human and AI readers.
+- **[querypilot](https://github.com/Akhilesh-Vangala/querypilot):** Agentic analytics with executable metrics, reconciled period comparisons, descriptive Shapley accounting, and inspectable SQL evidence. FastAPI, LangGraph, PostgreSQL, and React.
+- **[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow):** Accounts payable platform with ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
 
 ---
 
@@ -223,6 +211,4 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 
 ## Contact
 
-Happy to talk about **agent platforms**, **RAG systems**, and **evaluation-heavy AI products**.
-
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · **sai.akhilesh.vangala@gmail.com**
+Reach me at [sai.akhilesh.vangala@gmail.com](mailto:sai.akhilesh.vangala@gmail.com).
