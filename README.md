@@ -24,14 +24,12 @@ Agentic analytics with executable metrics, reconciled period comparisons, descri
 **[ledgerflow](https://github.com/Akhilesh-Vangala/ledgerflow)**  
 Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Hangfire, Telerik Reporting, Angular 17, and Azure DevOps CI/CD with Bicep.
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827)](https://akhilesh-vangala.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/sai-akhilesh-vangala)
-[![Email](https://img.shields.io/badge/Email-sv3129%40nyu.edu-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:sv3129@nyu.edu)
-[![Repos](https://img.shields.io/badge/GitHub-All%20repos-64748B?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/Akhilesh-Vangala?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://akhilesh-vangala.github.io/"><img src="./assets/link-portfolio.png" alt="Portfolio" height="88" /></a>
+  <a href="https://www.linkedin.com/in/sai-akhilesh-vangala"><img src="./assets/link-linkedin.png" alt="LinkedIn" height="88" /></a>
+  <a href="mailto:sv3129@nyu.edu"><img src="./assets/link-email.png" alt="Email" height="88" /></a>
+  <a href="https://github.com/Akhilesh-Vangala?tab=repositories"><img src="./assets/link-github.png" alt="GitHub" height="88" /></a>
+</p>
 
 I build evidence-grounded agent systems: tool-using workflows with auditable state, independent verification, golden-set evals, and human review before action.
 

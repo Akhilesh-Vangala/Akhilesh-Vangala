@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      width: 1180px; height: 132px; overflow: hidden;
+      background: transparent;
+      font-family: "IBM Plex Sans", system-ui, sans-serif;
+      display: flex; align-items: center; justify-content: center; gap: 16px;
+      padding: 16px;
+    }
+    .btn {
+      width: 270px; height: 100px; border-radius: 18px; position: relative;
+      overflow: hidden; display: flex; align-items: center; gap: 16px;
+      padding: 0 20px 0 18px;
+      background: linear-gradient(145deg, #141b27 0%, #0b1018 100%);
+      border: 1px solid rgba(255,255,255,0.08);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.35);
+    }
+    .btn::before {
+      content: ""; position: absolute; inset: 0; border-radius: 18px; padding: 1px;
+      background: var(--ring);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor; mask-composite: exclude; pointer-events: none;
+    }
+    .btn::after {
+      content: ""; position: absolute; width: 140px; height: 140px; border-radius: 50%;
+      right: -40px; top: -50px; background: var(--glow); filter: blur(8px); opacity: 0.55;
+      pointer-events: none;
+    }
+    .icon {
+      width: 48px; height: 48px; border-radius: 14px; flex-shrink: 0;
+      display: grid; place-items: center; position: relative; z-index: 1;
+      background: var(--icon-bg); color: #fff;
+      box-shadow: 0 8px 20px var(--icon-shadow);
+    }
+    .icon svg { width: 24px; height: 24px; fill: currentColor; }
+    .copy { position: relative; z-index: 1; min-width: 0; }
+    .label {
+      font-size: 11px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
+      color: var(--accent); margin-bottom: 4px;
+    }
+    .title { font-size: 18px; font-weight: 700; color: #f8fafc; letter-spacing: -0.02em; line-height: 1.15; }
+    .sub { font-size: 12px; font-weight: 500; color: #94a3b8; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 170px; }
+
+    .portfolio { --ring: linear-gradient(135deg, #2EE6A6, #14B8A6 40%, transparent 75%); --glow: rgba(46,230,166,0.35); --accent: #5EEAD4; --icon-bg: linear-gradient(145deg, #14B8A6, #0F766E); --icon-shadow: rgba(20,184,166,0.4); }
+    .linkedin { --ring: linear-gradient(135deg, #60A5FA, #2563EB 45%, transparent 75%); --glow: rgba(37,99,235,0.4); --accent: #93C5FD; --icon-bg: linear-gradient(145deg, #3B82F6, #1D4ED8); --icon-shadow: rgba(37,99,235,0.45); }
+    .email { --ring: linear-gradient(135deg, #FB7185, #E11D48 45%, transparent 75%); --glow: rgba(244,63,94,0.35); --accent: #FDA4AF; --icon-bg: linear-gradient(145deg, #F43F5E, #BE123C); --icon-shadow: rgba(244,63,94,0.4); }
+    .github { --ring: linear-gradient(135deg, #94A3B8, #64748B 45%, transparent 75%); --glow: rgba(148,163,184,0.28); --accent: #CBD5E1; --icon-bg: linear-gradient(145deg, #334155, #0F172A); --icon-shadow: rgba(15,23,42,0.5); }
+  </style>
+</head>
+<body>
+  <div class="btn portfolio" id="portfolio">
+    <div class="icon">
+      <svg viewBox="0 0 24 24"><path d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42 9.3-9.29H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg>
+    </div>
+    <div class="copy">
+      <div class="label">Portfolio</div>
+      <div class="title">Visit site</div>
+      <div class="sub">akhilesh-vangala.github.io</div>
+    </div>
+  </div>
+
+  <div class="btn linkedin" id="linkedin">
+    <div class="icon">
+      <svg viewBox="0 0 24 24"><path d="M6.94 8.5H3.5V20h3.44V8.5zM5.22 3.5A1.98 1.98 0 103.24 5.48 1.98 1.98 0 005.22 3.5zM20.5 20h-3.44v-5.6c0-1.33-.02-3.05-1.86-3.05-1.86 0-2.14 1.45-2.14 2.95V20H9.62V8.5h3.3v1.57h.05c.46-.87 1.58-1.79 3.25-1.79 3.48 0 4.28 2.29 4.28 5.27V20z"/></svg>
+    </div>
+    <div class="copy">
+      <div class="label">LinkedIn</div>
+      <div class="title">Connect</div>
+      <div class="sub">sai-akhilesh-vangala</div>
+    </div>
+  </div>
+
+  <div class="btn email" id="email">
+    <div class="icon">
+      <svg viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+    </div>
+    <div class="copy">
+      <div class="label">Email</div>
+      <div class="title">Write me</div>
+      <div class="sub">sv3129@nyu.edu</div>
+    </div>
+  </div>
+
+  <div class="btn github" id="github">
+    <div class="icon">
+      <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 00-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.16-1.11-1.47-1.11-1.47-.9-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.52 2.34 1.08 2.91.83.09-.65.35-1.08.63-1.33-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0112 6.8c.85 0 1.71.11 2.51.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0012 2z"/></svg>
+    </div>
+    <div class="copy">
+      <div class="label">GitHub</div>
+      <div class="title">All repos</div>
+      <div class="sub">Akhilesh-Vangala</div>
+    </div>
+  </div>
+</body>
+</html>
