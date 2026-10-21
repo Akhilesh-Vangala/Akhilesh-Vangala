@@ -27,7 +27,7 @@ Accounts payable platform: ASP.NET Core Web API (.NET 9), EF Core, Azure SQL, Ha
 <p align="center">
   <a href="https://akhilesh-vangala.github.io/"><img src="./assets/link-portfolio.png" alt="Portfolio" height="88" /></a>
   <a href="https://www.linkedin.com/in/sai-akhilesh-vangala"><img src="./assets/link-linkedin.png" alt="LinkedIn" height="88" /></a>
-  <a href="mailto:sv3129@nyu.edu"><img src="./assets/link-email.png" alt="Email" height="88" /></a>
+  <a href="mailto:sai.akhilesh.vangala@gmail.com"><img src="./assets/link-email.png" alt="Email" height="88" /></a>
   <a href="https://github.com/Akhilesh-Vangala?tab=repositories"><img src="./assets/link-github.png" alt="GitHub" height="88" /></a>
 </p>
 
@@ -225,4 +225,4 @@ Shipped production Python/FastAPI and AWS Lambda APIs with SQL backends and LLM-
 
 Happy to talk about **agent platforms**, **RAG systems**, and **evaluation-heavy AI products**.
 
-[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · **sv3129@nyu.edu** · **sai.akhilesh.vangala@gmail.com**
+[Portfolio](https://akhilesh-vangala.github.io/) · [LinkedIn](https://www.linkedin.com/in/sai-akhilesh-vangala) · **sai.akhilesh.vangala@gmail.com**
